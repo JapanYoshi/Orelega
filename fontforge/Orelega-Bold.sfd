@@ -1,0 +1,62 @@
+SplineFontDB: 3.0
+FontName: Orelega-Bold
+FullName: Orelega Bold
+FamilyName: Orelega
+Weight: Bold
+Copyright: Copyright (c) 2019 UkiyoMoji Fonts
+UComments: "2019-10-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -160
+UnderlineWidth: 160
+Ascent: 3296
+Descent: 800
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 734 -1507982095 5434]
+StyleMap: 0x0020
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1571294646
+ModificationTime: 1571294831
+PfmFamily: 17
+TTFWeight: 700
+TTFWidth: 5
+LineGap: 369
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 369
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2FamilyClass: 1025
+OS2Vendor: 'Ukyo'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 0
+FitToEm: 0
+WinInfo: 60 12 1
+OnlyBitmaps: 1
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 0 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 0
+EndChars
+EndSplineFont
