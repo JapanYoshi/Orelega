@@ -1,0 +1,32 @@
+StartChar: v
+Encoding: 118 118 95
+Width: 2320
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 21G<927.211 1368.79> 1520 320<80 268 871 1200 1400 1680 2028 2240>
+AnchorPoint: "cedilla" 1164 80 basechar 0
+AnchorPoint: "top" 1210 1920 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+80 1840 m 1
+ 1200 1840 l 1
+ 1200 1520 l 1
+ 871 1520 l 1
+ 1188 800 l 2
+ 1217 733 1257 630 1276 560 c 1
+ 1295 630 1335 733 1364 800 c 2
+ 1680 1520 l 1
+ 1400 1520 l 1
+ 1400 1840 l 1
+ 2240 1840 l 1
+ 2240 1520 l 1
+ 2028 1520 l 1
+ 1360 0 l 1
+ 936 0 l 1
+ 268 1520 l 1
+ 80 1520 l 1
+ 80 1840 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,12 @@
+StartChar: Ugrave
+Encoding: 217 217 120
+Width: 2840
+VWidth: 0
+Flags: W
+HStem: -40 320<1283.98 1842.54> 2160 320<120 440 1080 1400 1640 2720> 2640 640
+VStem: 440 640<522.734 2160> 1000 897 2040 320<497.621 2160>
+LayerCount: 2
+Fore
+Refer: 84 96 N 1 0 0 1 920 640 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+EndChar

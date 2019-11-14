@@ -1,0 +1,34 @@
+StartChar: uniE105
+Encoding: 57605 57605 381
+Width: 2160
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -800 320<948.223 1265.49> 0 320<80 280 840 1040> 1520 320<80 280 1200 1400> 2000 640
+VStem: 183 897 280 560<320 1520> 328 640<-617 -219.115> 1143 897 1400 560<-332.141 1520>
+LayerCount: 2
+Fore
+SplineSet
+1200 1840 m 1xf080
+ 1960 1840 l 1
+ 1960 0 l 2
+ 1960 -491 1600 -800 1040 -800 c 0
+ 560 -800 446 -730 371 -600 c 1
+ 780 -380 l 1
+ 894 -471 962 -480 1060 -480 c 0
+ 1241 -480 1400 -320 1400 0 c 2
+ 1400 1520 l 1
+ 1200 1520 l 1
+ 1200 1840 l 1xf080
+968 -440 m 0xf2
+ 968 -617 825 -760 648 -760 c 0
+ 471 -760 328 -617 328 -440 c 0
+ 328 -263 471 -120 648 -120 c 0
+ 825 -120 968 -263 968 -440 c 0xf2
+EndSplineSet
+Refer: 83 180 N 1 0 0 1 1060 0 2
+Refer: 136 237 N 1 0 0 1 0 0 2
+Ligature2: "Dutch IJ/ij ligatures-1" iacute j
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" ij acutecomb
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" ij acute
+EndChar

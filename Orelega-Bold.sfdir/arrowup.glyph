@@ -1,0 +1,25 @@
+StartChar: arrowup
+Encoding: 8593 8593 346
+Width: 2400
+VWidth: 0
+Flags: W
+HStem: -640 21G<1024 1376> 2460 20G<1120 1280>
+VStem: 1024 352<-640 378.543> 1064 272<713.577 1640>
+LayerCount: 2
+Fore
+SplineSet
+1200 2480 m 1xd0
+ 1280 2467 l 1
+ 2280 1400 l 1
+ 2160 1240 l 1
+ 1336 1640 l 1xd0
+ 1360 1160 1376 502 1376 -640 c 1
+ 1024 -640 l 1xe0
+ 1024 502 1040 1160 1064 1640 c 1
+ 240 1240 l 1
+ 120 1400 l 1
+ 1120 2467 l 1
+ 1200 2480 l 1xd0
+EndSplineSet
+Validated: 1
+EndChar

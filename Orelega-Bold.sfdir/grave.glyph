@@ -1,0 +1,23 @@
+StartChar: grave
+Encoding: 96 96 84
+Width: 1060
+VWidth: 0
+Flags: W
+HStem: 2000 640
+VStem: 80 897
+AnchorPoint: "top" 600 1920 mark 0
+LayerCount: 2
+Fore
+SplineSet
+961 2091 m 2
+ 971 2081 977 2067 977 2053 c 0
+ 977 2024 953 2000 924 2000 c 0
+ 919 2000 914 2001 910 2002 c 2
+ 254 2178 l 2
+ 151 2206 80 2299 80 2405 c 0
+ 80 2535 185 2640 315 2640 c 0
+ 377 2640 437 2615 481 2571 c 2
+ 961 2091 l 2
+EndSplineSet
+Validated: 1
+EndChar

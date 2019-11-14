@@ -1,0 +1,13 @@
+StartChar: percent
+Encoding: 37 37 5
+Width: 3214
+VWidth: 0
+Flags: HW
+HStem: 0 21G<707 1088.54> 2460 20G<2127.45 2508>
+LayerCount: 2
+Fore
+Refer: 369 176 S 1 0 0 1 1680 -1200 2
+Refer: 369 176 N 1 0 0 1 0 0 2
+Refer: 15 47 N 1 0 0 1 627 0 2
+Validated: 1
+EndChar

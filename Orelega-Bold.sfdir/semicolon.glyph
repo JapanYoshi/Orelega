@@ -1,0 +1,19 @@
+StartChar: semicolon
+Encoding: 59 59 27
+Width: 800
+VWidth: 0
+Flags: W
+HStem: -640 1260 1210 640<179.115 620.885>
+VStem: 80 640<1309.12 1750.88> 80 649<87.5346 509.526>
+LayerCount: 2
+Fore
+SplineSet
+80 1530 m 0xe0
+ 80 1707 223 1850 400 1850 c 0
+ 577 1850 720 1707 720 1530 c 0
+ 720 1353 577 1210 400 1210 c 0
+ 223 1210 80 1353 80 1530 c 0xe0
+EndSplineSet
+Refer: 12 44 S 1 0 0 1 0 0 2
+Validated: 1
+EndChar

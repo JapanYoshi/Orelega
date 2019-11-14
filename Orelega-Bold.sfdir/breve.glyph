@@ -1,0 +1,28 @@
+StartChar: breve
+Encoding: 728 728 68
+Width: 1520
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 2000 280<579.342 940.658>
+VStem: 80 480<2297.69 2640> 960 480<2297.69 2640>
+AnchorPoint: "top" 760 1920 mark 0
+LayerCount: 2
+Fore
+SplineSet
+80 2520 m 2
+ 80 2640 l 1
+ 560 2640 l 1
+ 560 2520 l 2
+ 560 2320 600 2280 760 2280 c 1
+ 760 2000 l 1
+ 400 2000 80 2240 80 2520 c 2
+1440 2520 m 2
+ 1440 2240 1120 2000 760 2000 c 1
+ 760 2280 l 1
+ 920 2280 960 2320 960 2520 c 2
+ 960 2640 l 1
+ 1440 2640 l 1
+ 1440 2520 l 2
+EndSplineSet
+EndChar

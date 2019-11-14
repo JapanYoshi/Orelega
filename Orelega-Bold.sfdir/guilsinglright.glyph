@@ -1,0 +1,12 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 367
+Width: 1040
+VWidth: 0
+Flags: W
+HStem: 240 1360
+VStem: 80 880<680 800 1040 1160>
+LayerCount: 2
+Fore
+Refer: 366 8249 S -1 0 0 -1 1040 1840 2
+Validated: 1
+EndChar

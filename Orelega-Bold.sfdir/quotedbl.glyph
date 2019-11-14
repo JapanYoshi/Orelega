@@ -1,0 +1,13 @@
+StartChar: quotedbl
+Encoding: 34 34 2
+Width: 1480
+VWidth: 0
+Flags: W
+HStem: 1280 1280<221.288 498.712 981.288 1258.71>
+VStem: 80 560<1598.95 2482.81> 840 560<1598.95 2482.81>
+LayerCount: 2
+Fore
+Refer: 7 39 S 1 0 0 1 760 0 2
+Refer: 7 39 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

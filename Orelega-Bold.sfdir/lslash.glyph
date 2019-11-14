@@ -1,0 +1,19 @@
+StartChar: lslash
+Encoding: 322 322 304
+Width: 1120
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<80 280 840 1040> 2160 320<80 280>
+VStem: 280 560<320 2160>
+LayerCount: 2
+Fore
+SplineSet
+1009 1280 m 1
+ 1009 949 l 1
+ 110 694 l 1
+ 110 1026 l 1
+ 1009 1280 l 1
+EndSplineSet
+Refer: 90 108 N 1 0 0 1 0 0 3
+EndChar

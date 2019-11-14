@@ -1,0 +1,46 @@
+StartChar: kgreenlandic
+Encoding: 312 312 398
+Width: 2280
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<80 280 840 1040 1240 1452 2120 2200> 1520 320<80 280 1200 1649 2034 2160>
+VStem: 280 560<320 1520>
+AnchorPoint: "cedilla" 1124 80 basechar 0
+AnchorPoint: "top" 1000 1920 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+80 1840 m 5
+ 840 1840 l 5
+ 840 320 l 1
+ 1040 320 l 1
+ 1040 0 l 1
+ 80 0 l 1
+ 80 320 l 1
+ 280 320 l 1
+ 280 1520 l 5
+ 80 1520 l 5
+ 80 1840 l 5
+1240 320 m 1
+ 2200 320 l 1
+ 2200 0 l 1
+ 1240 0 l 1
+ 1240 320 l 1
+1200 1520 m 1
+ 1200 1840 l 1
+ 2160 1840 l 1
+ 2160 1520 l 1
+ 1200 1520 l 1
+1649 1760 m 1
+ 2034 1670 l 1
+ 1306 870 l 1
+ 920 960 l 1
+ 1649 1760 l 1
+920 960 m 1
+ 1448 1160 l 1
+ 2120 200 l 1
+ 1452 200 l 1
+ 920 960 l 1
+EndSplineSet
+EndChar

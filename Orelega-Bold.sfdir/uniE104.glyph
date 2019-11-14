@@ -1,0 +1,35 @@
+StartChar: uniE104
+Encoding: 57604 57604 338
+Width: 3640
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -5 320<160 360 920 1200 1440 1640 2200 2400> 0 320<2600 2812 3480 3560> 1515 325<80 1360> 1520 320<2560 3009 3394 3520> 2315 320<1065.56 1629.28>
+VStem: 360 560<315 2167.14> 1640 560<315 2268.59>
+LayerCount: 2
+Fore
+SplineSet
+2600 320 m 1x4e
+ 3560 320 l 1
+ 3560 0 l 1
+ 2600 0 l 1
+ 2600 320 l 1x4e
+2560 1520 m 1x1e
+ 2560 1840 l 1
+ 3520 1840 l 1
+ 3520 1520 l 1
+ 2560 1520 l 1x1e
+3009 1760 m 1
+ 3394 1670 l 1
+ 2666 870 l 1
+ 2280 960 l 1
+ 3009 1760 l 1
+2280 960 m 1
+ 2808 1160 l 1
+ 3480 200 l 1
+ 2812 200 l 1
+ 2280 960 l 1
+EndSplineSet
+Refer: 339 64258 S 1 0 0 1 0 0 2
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" f k
+EndChar

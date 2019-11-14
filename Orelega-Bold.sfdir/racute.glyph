@@ -1,0 +1,11 @@
+StartChar: racute
+Encoding: 341 341 193
+Width: 1880
+VWidth: 0
+HStem: 0 320<80 280 840 1280> 1520 320<80 280> 1520 360<1014.76 1406.01> 2000 640
+VStem: 280 560<320 1200> 603 897
+LayerCount: 2
+Fore
+Refer: 83 180 N 1 0 0 1 520 0 2
+Refer: 87 114 N 1 0 0 1 0 0 3
+EndChar

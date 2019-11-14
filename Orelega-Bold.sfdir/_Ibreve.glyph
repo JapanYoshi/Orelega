@@ -1,0 +1,12 @@
+StartChar: Ibreve
+Encoding: 300 300 177
+Width: 1520
+VWidth: 0
+Flags: HW
+HStem: 0 320<120 440 1080 1400> 2160 320<120 440 1080 1400> 2640 280<579.342 940.658>
+VStem: 80 480<2937.69 3280> 440 640<320 2160> 960 480<2937.69 3280>
+LayerCount: 2
+Fore
+Refer: 68 728 N 1 0 0 1 0 640 2
+Refer: 41 73 N 1 0 0 1 0 0 3
+EndChar

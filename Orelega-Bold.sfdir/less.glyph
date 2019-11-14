@@ -1,0 +1,25 @@
+StartChar: less
+Encoding: 60 60 28
+Width: 1680
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1600 1987 m 5
+ 1600 1627 l 5
+ 840 1339 l 6
+ 678 1278 483 1229 240 1208 c 5
+ 80 1147 l 5
+ 80 1427 l 5
+ 1600 1987 l 5
+1600 493 m 5
+ 80 1053 l 5
+ 80 1333 l 5
+ 240 1272 l 5
+ 483 1251 678 1202 840 1141 c 6
+ 1600 853 l 5
+ 1600 493 l 5
+EndSplineSet
+EndChar

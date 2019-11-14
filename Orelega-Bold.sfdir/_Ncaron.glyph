@@ -1,0 +1,13 @@
+StartChar: Ncaron
+Encoding: 327 327 188
+Width: 2860
+VWidth: 0
+Flags: W
+HStem: 0 320<120 440 840 1160> 2160 320<120 440 1720 2040 2440 2760> 2636 640<1199 1239 1639 1679>
+VStem: 440 400<320 1600> 2040 400<1268 2160>
+LayerCount: 2
+Fore
+Refer: 222 711 N 1 0 0 1 639 636 2
+Refer: 46 78 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

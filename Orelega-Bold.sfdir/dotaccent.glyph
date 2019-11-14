@@ -1,0 +1,19 @@
+StartChar: dotaccent
+Encoding: 729 729 79
+Width: 800
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 1960 640<179.115 620.885>
+VStem: 80 640<2059.12 2500.88>
+AnchorPoint: "top" 400 1920 mark 0
+LayerCount: 2
+Fore
+SplineSet
+80 2280 m 0
+ 80 2457 223 2600 400 2600 c 0
+ 577 2600 720 2457 720 2280 c 0
+ 720 2103 577 1960 400 1960 c 4
+ 223 1960 80 2103 80 2280 c 0
+EndSplineSet
+EndChar

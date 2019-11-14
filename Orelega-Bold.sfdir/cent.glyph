@@ -1,0 +1,19 @@
+StartChar: cent
+Encoding: 162 162 393
+Width: 1994
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -40 332<864.946 1452.7> 1560 320<856.779 1439.62>
+VStem: 80 594<499.927 1342.1> 880 320<-400 2240> 1274 640<1019.12 1417>
+LayerCount: 2
+Fore
+SplineSet
+880 -400 m 1
+ 880 2240 l 1
+ 1200 2240 l 1
+ 1200 -400 l 1
+ 880 -400 l 1
+EndSplineSet
+Refer: 66 99 N 1 0 0 1 0 0 2
+EndChar

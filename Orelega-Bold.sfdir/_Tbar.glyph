@@ -1,0 +1,20 @@
+StartChar: Tbar
+Encoding: 358 358 300
+Width: 2520
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<620 940 1580 1900> 960 320<520 2000> 1680 800<100 460 2060 2420> 2160 320<507.836 940 1580 2012.16>
+VStem: 100 360<1680 2130.52> 940 640<320 2160> 2060 360<1680 2130.52>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+SplineSet
+520 1280 m 1xce
+ 2000 1280 l 1
+ 2000 960 l 1
+ 520 960 l 1
+ 520 1280 l 1xce
+EndSplineSet
+Refer: 52 84 N 1 0 0 1 0 0 3
+EndChar
