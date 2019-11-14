@@ -2,7 +2,7 @@ StartChar: Oacute
 Encoding: 211 211 116
 Width: 2720
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -40 320<1088.91 1631.09> 2200 320<1086.12 1633.88> 2640 640
 VStem: 40 720<766.786 1713.21> 983 897 1960 720<766.786 1713.21>
 LayerCount: 2

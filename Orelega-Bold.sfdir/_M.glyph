@@ -2,7 +2,7 @@ StartChar: M
 Encoding: 77 77 45
 Width: 3440
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 320<120 440 840 1160 2040 2360 3000 3320> 2160 320<120 440 3000 3320>
 VStem: 440 400<320 1768> 2360 640<320 1763>
 AnchorPoint: "cedilla" 1604 80 basechar 0
