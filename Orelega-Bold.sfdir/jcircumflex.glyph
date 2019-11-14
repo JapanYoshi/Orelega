@@ -9,4 +9,5 @@ LayerCount: 2
 Fore
 Refer: 89 710 N 1 0 0 1 -240 0 2
 Refer: 77 567 N 1 0 0 1 0 0 3
+Substitution2: "Duck +ACIA-f+ACIA--1" jcircumflex.calt
 EndChar
