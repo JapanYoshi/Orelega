@@ -1,3 +1,5 @@
+![](kerning.png)
+
 # About
 
 Orelega is a whimsical Clarendon font with oversized ears. Its design was based on Sagona Extra Bold by René Bieder (available on [MyFonts](https://www.myfonts.com/fonts/rene-bieder/sagona/)), but it is far from a shameless copy. Everything has been redrawn from the ground up, with many new aesthetic changes in letterform, such as:
@@ -18,7 +20,7 @@ However,it lacks many extra features of Sagona, like full weights, italics, swas
 
 # Name
 
-*Orel/eg/a* is Esperanto for “large-eared”. It is composed of *[orel-](https://en.wiktionary.org/wiki/orelo#Esperanto)* “ear”, *[-eg-](https://en.wiktionary.org/wiki/-eg-#Esperanto)* [augments degree or size], and *[-a](https://en.wiktionary.org/wiki/-a#Esperanto)* [adjective ending].
+*Orelega* is Esperanto for “large-eared”. It is composed of *[orel-](https://en.wiktionary.org/wiki/orelo#Esperanto)* “ear”, *[-eg-](https://en.wiktionary.org/wiki/-eg-#Esperanto)* [augments degree or size], and *[-a](https://en.wiktionary.org/wiki/-a#Esperanto)* [adjective ending].
 
 # Edit/Build instructions
 
