@@ -7,13 +7,14 @@ Orelega is a whimsical Clarendon font with oversized ears. Its design was based 
 * the more traditional Clarendon “R”
 * the fancier “&”
 * the uninterrupted slash
-* the open apertures on “c” and “e”
+* the (relatively) open apertures on “c” and “e”
 * the even bigger ear on “g”
 * less clashy ligatures, even with accented “i”
 * more contemporary Sulzbacher (3-like) “ß” (plus the new capital “ẞ”)
 * the completely original and even *earier* diacritical marks (like cedilla, tilde and ogonek).
+* the Regular weight with the same big ear size as Bold!
 
-However,it lacks many extra features of Sagona, like multiple weights, italics, swash letters, small caps, all-caps alternates, and other stylistic alternates.
+However,it lacks many extra features of Sagona, like full weights, italics, swash letters, small caps, all-caps alternates, and other stylistic alternates.
 
 # Name
 
@@ -24,3 +25,7 @@ However,it lacks many extra features of Sagona, like multiple weights, italics, 
 Because I cannot afford Glyphs, Orelega is developed on the free font editor FontForge. Simply load the project in the directory ``/fontforge/`` and edit there.
 
 To export to a font file, open the project and navigate to File > Generate. Then on the dialog box, choose your file name, save location, and format, then press Generate again.
+
+# TODO
+* kerning is incomplete (f + diacritics exceptions)
+* regular weight has not started
