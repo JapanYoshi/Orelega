@@ -1,1 +1,2 @@
-svg
+# host/track source svg files
+svg/__*
