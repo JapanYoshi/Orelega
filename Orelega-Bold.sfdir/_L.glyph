@@ -2,7 +2,7 @@ StartChar: L
 Encoding: 76 76 44
 Width: 2400
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 320<120 440 1080 1832.16> 2160 320<120 440 1080 1480>
 VStem: 440 640<320 2160> 1880 360<349.48 960>
 AnchorPoint: "cedilla" 1244 80 basechar 0
@@ -27,4 +27,5 @@ SplineSet
  120 2160 l 1
  120 2480 l 1
 EndSplineSet
+Validated: 1
 EndChar

@@ -3,7 +3,7 @@ Encoding: 100 100 69
 Width: 2262
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: -46 366<631.733 1247.2> 0 320<1982 2182> 1509 371<874.72 1247.79> 2160 320<1222 1422>
 VStem: 120 601<525.898 1340.43> 1422 560<579 2160>
 AnchorPoint: "cedilla" 1164 80 basechar 0

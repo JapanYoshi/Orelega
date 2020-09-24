@@ -3,8 +3,8 @@ Encoding: 85 85 53
 Width: 2800
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -40 320<1283.98 1842.54> 2160 320<120 440 1080 1400 1640 2720>
+Flags: W
+HStem: -40 320<1283.98 1842.54> 2160 320<120 440 1080 1400 1640 2680>
 VStem: 440 640<522.734 2160> 2040 320<497.621 2160>
 AnchorPoint: "ogonek" 1940 80 basechar 0
 AnchorPoint: "cedilla" 1524 80 basechar 0

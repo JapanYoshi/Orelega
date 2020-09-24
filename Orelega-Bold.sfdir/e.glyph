@@ -3,7 +3,7 @@ Encoding: 101 101 71
 Width: 2116
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: -52 332<904.946 1492.7> 800 320<420 1442> 908 212<1442 1515> 1560 320<859.492 1297.83>
 VStem: 420 294<800 1120>
 AnchorPoint: "ogonek" 1560 80 basechar 0

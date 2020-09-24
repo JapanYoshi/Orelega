@@ -2,7 +2,7 @@ StartChar: o
 Encoding: 111 111 82
 Width: 2157
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -46 320<855.366 1297.2> 1554 320<855.366 1297.2>
 VStem: 120 594<491.896 1336.1> 1442 595<494.072 1333.93>
 AnchorPoint: "ogonek" 1520 80 basechar 0
@@ -22,4 +22,5 @@ SplineSet
  1305 274 1442 439 1442 914 c 0
  1442 1389 1305 1554 1078 1554 c 3
 EndSplineSet
+Validated: 1
 EndChar
