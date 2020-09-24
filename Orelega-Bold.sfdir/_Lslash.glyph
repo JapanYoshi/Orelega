@@ -1,9 +1,9 @@
 StartChar: Lslash
 Encoding: 321 321 303
-Width: 2360
+Width: 2400
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 320<120 440 1080 1832.16> 2160 320<120 440 1080 1480>
 VStem: 440 640<320 2160> 1880 360<349.48 960>
 LayerCount: 2
