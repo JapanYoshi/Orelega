@@ -29,26 +29,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46209215"
-     inkscape:cx="2521.0274"
-     inkscape:cy="551.22624"
+     inkscape:zoom="0.09311542"
+     inkscape:cx="3221.8474"
+     inkscape:cy="2374.0942"
      inkscape:document-units="px"
-     inkscape:current-layer="g1936"
+     inkscape:current-layer="g1892"
      showgrid="true"
      units="px"
-     inkscape:pagecheckerboard="true"
+     inkscape:pagecheckerboard="false"
      borderlayer="true"
      gridtolerance="10"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
      inkscape:object-paths="false"
      inkscape:snap-global="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4131"
@@ -132,8 +133,7 @@
      id="layer2"
      inkscape:label="Orelega lower"
      style="display:none;opacity:0.24362607"
-     transform="translate(0,24)"
-     sodipodi:insensitive="true">
+     transform="translate(0,24)">
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.14285755;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="path846"
@@ -743,7 +743,7 @@
   </g>
   <g
      transform="translate(0,24)"
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      inkscape:label="Orelega lower cyrillic"
      id="g1892"
      inkscape:groupmode="layer">
@@ -857,12 +857,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1024px;line-height:1;font-family:Orelega;-inkscape-font-specification:Orelega;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="-5"
+       x="-65"
        y="800"
        id="text2029"><tspan
          sodipodi:role="line"
          id="tspan2027"
-         x="-5"
+         x="-65"
          y="800"
          style="stroke-width:64">a</tspan></text>
     <text
@@ -1309,7 +1309,7 @@
        id="g2491">
       <path
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         d="M 670,204 C 550,204 480,354 480,544 L 550,605.42773 570,634 c -7.09797,-30 -10,-24.82757 -10,-80 0,-140 30,-200 110,-200 63.75741,0 80,20 160,20 70,0 130,-30 130,-130 l -100,60 h -30 c -20,0 -39.82253,-21.22698 -56,-46 -20.9938,-32.1484 -45.47554,-54 -104,-54 z"
+         d="M 670,204 C 550,204 480,354 480,544 L 550,605.42773 570,634 c -7.09797,-30 -10,-24.82757 -10,-80 0,-140 44,-205 124,-205 63.75741,0 66,25 146,25 82.98831,0 130,-47.71265 130,-130 L 860,304 H 830 C 813.44405,304 797.06556,282.77302 780.88809,258 759.89429,225.8516 728.52446,204 670,204 Z"
          transform="translate(0,-24)"
          id="path2488"
          inkscape:connector-curvature="0"
@@ -1499,19 +1499,20 @@
        sodipodi:nodetypes="csssccsssc" />
     <g
        id="g1949">
-      <circle
+      <path
          transform="scale(-1)"
-         r="80"
-         cy="-920"
-         cx="-13174.001"
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.14285755;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="circle991-1-0-59" />
+         d="m -13094.001,-920 c 0,44.18278 -35.817,80 -80,80 -44.183,0 -80,-35.81722 -80,-80 0,-44.18278 35.817,-80 80,-80 44.183,0 80,35.81722 80,80 z"
+         id="circle991-1-0-59"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
       <path
          id="path2488-6"
          transform="translate(0,-24)"
-         d="m 13000,744 v 80 h 460 c 22.091,0 40,17.90861 40,40 0,20 -15.398,40 -34.359,40 -15.64,0 -31.537,-10.56961 -42.907,-19.89258 C 13393.469,860.11265 13353.013,844 13260,844 c -114.146,0 -166,30.00005 -166,100 l 120,-24 h 30 c 20,0 37.667,22.77756 56,46 30,38.0001 80,58 140,58 90,0 140,-60 140,-160 a 120,120 0 0 0 -120,-120 z"
+         d="m 13000,744 v 80 h 500 c 22.091,0 40,17.90861 40,40 0,20 -15.398,40 -34.359,40 -15.818,0 -25.311,-3.76332 -39.641,-20.19192 C 13440,854 13389.139,839 13270,839 c -140,0 -176,58.54136 -176,105 l 130,14 c 0,-17.79423 8.52,-34 30.574,-34 13.506,0 24.048,4.65907 35.426,19.87627 C 13320,984 13391.216,1014 13480.034,1014 13556.258,1014 13620,950.79783 13620,868.59206 13620,802.31789 13566.274,744 13500,744 Z"
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsssssccsssssc" />
     </g>
     <use
        x="0"
@@ -1521,18 +1522,10 @@
        transform="translate(-540.00027)"
        width="100%"
        height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g1949"
-       id="use1951"
-       transform="translate(1480)"
-       width="100%"
-       height="100%" />
     <rect
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect1953"
-       width="290"
+       width="820"
        height="80"
        x="14190"
        y="720" />
@@ -2664,7 +2657,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Orelega Upper cyrillic"
-     style="display:inline">
+     style="display:none">
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.23760414;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 156.88672,504 v 80 H 280 c 97.7518,0 130,20 130,80 0,60 -30.3992,80 -110,80 H 0 v 80 h 260 c 170,0 225.424,-2.93072 274,-41.63086 C 567.9756,755.30104 590,714 590,654 590,534 468.951,504 280,504 Z"
@@ -2722,10 +2715,10 @@
          sodipodi:nodetypes="cssccssc" />
       <path
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m 2810,184 c -50,0 -90,10 -110,30 -25.4951,25.4951 -52.5,70 -60,130 -10,80 -16.4641,109.21638 -30,140 -5.912,13.44522 -20,20 -30,20 l 30,50 c 100,0 170,-70 180,-210 3.6329,-50.86061 28.4669,-80 60,-80 24.5898,0 39.459,35.16615 40,50 -44.1828,0 -80,35.81722 -80,80 0,44.18278 35.8172,80 80,80 44.1828,0 80,-30 80,-110 0,-79.86899 -19.9994,-130.79398 -53.9531,-152.98047 C 2890.0006,194 2860,184 2810,184 Z"
+         d="m 2810,194 c -50,0 -82.6941,11.62354 -110,30 -29.9125,20.13064 -52.7928,62.06414 -60,122.1 -10.7348,89.42036 -22.7524,156.93844 -60,157.9 l 30,50 c 100,0 170,-67.9 180,-207.9 3.6329,-50.86061 21.5788,-80 53.1119,-80 24.5898,0 46.6612,18.18863 40.8881,50 -44.1828,0 -80,35.81722 -80,80 0,44.18278 35.8172,80 80,80 44.1828,0 89,-30 89,-110 0,-79.86899 -22.9994,-122.89398 -56.9531,-145.08047 C 2890.0006,204 2860,194 2810,194 Z"
          id="path1751-3"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ssssccsscsssss" />
+         sodipodi:nodetypes="sssccsscsssss" />
     </g>
     <circle
        r="80"
