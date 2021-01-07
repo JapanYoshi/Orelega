@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571294646
-ModificationTime: 1610006109
+ModificationTime: 1610009755
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -43,10 +43,10 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2FamilyClass: 1025
 OS2Vendor: 'Ukyo'
-Lookup: 1 0 0 "Duck +ACIA-f+ACIA" { "Duck +ACIA-f+ACIA--1"  } []
-Lookup: 4 0 1 "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0" { "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 1 "Dutch IJ/ij ligatures" { "Dutch IJ/ij ligatures-1"  } ['liga' ('latn' <'nld ' > ) ]
-Lookup: 6 0 0 "'calt' +ZYeBCE+dW1gwbnVwT1NbVwAA in +MOkwxjDzZYdbVwAA lookup 4" { "duck j after j"  "duck j after desc"  "duck f before f"  "duck f before asc"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' 'nld ' > ) ]
+Lookup: 1 0 0 "Duck Substitution" { "Duct"  } []
+Lookup: 4 0 1 "'liga' Default ligatures" { "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "'locl' Dutch IJ and ij" { "Dutch IJ/ij ligatures-1"  } ['locl' ('latn' <'nld ' > ) ]
+Lookup: 6 0 0 "'calt' Ducking letters" { "duck j after j"  "duck j after desc"  "duck f before f"  "duck f before asc"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' 'nld ' > ) ]
 Lookup: 260 0 0 "'mark' +MN4w/DCvMG5PTX9uYwdbmgAA lookup 1" { "'mark' +MN4w/DCvMG5PTX9uYwdbmgAA lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' 'nld ' > ) ]
 Lookup: 258 0 0 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA in +MOkwxjDzZYdbVwAA lookup 0" { "'kern' +aipm+DBNMKsw/DDLMPMwsAAA in +MOkwxjDzZYdbVwAA lookup 0-1" [614,0,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' 'nld ' > ) ]
 MarkAttachClasses: 1
@@ -133,7 +133,7 @@ ChainSub2: class "duck f before asc" 3 3 3 1
   BClsList:
   FClsList: 2
  1
-  SeqLookup: 0 "Duck +ACIA-f+ACIA"
+  SeqLookup: 0 "Duck Substitution"
   ClassNames: "All_Others" "f" "asc"
   BClassNames: "All_Others" "f" "asc"
   FClassNames: "All_Others" "f" "asc"
@@ -147,7 +147,7 @@ ChainSub2: class "duck f before f" 2 2 2 1
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Duck +ACIA-f+ACIA"
+  SeqLookup: 0 "Duck Substitution"
   ClassNames: "All_Others" "f"
   BClassNames: "All_Others" "f"
   FClassNames: "All_Others" "f"
@@ -161,7 +161,7 @@ ChainSub2: class "duck j after j" 2 2 2 1
   BClsList: 1
   FClsList:
  1
-  SeqLookup: 0 "Duck +ACIA-f+ACIA"
+  SeqLookup: 0 "Duck Substitution"
   ClassNames: "All_Others" "j"
   BClassNames: "All_Others" "j"
   FClassNames: "All_Others" "j"
@@ -178,19 +178,20 @@ ChainSub2: class "duck j after desc" 3 3 3 1
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Duck +ACIA-f+ACIA"
+  SeqLookup: 0 "Duck Substitution"
   ClassNames: "All_Others" "j" "desc"
   BClassNames: "All_Others" "j" "desc"
   FClassNames: "All_Others" "j" "desc"
 EndFPST
 LangName: 1033
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 0
 FitToEm: 0
-WinInfo: 950 25 17
+WinInfo: 156 26 17
 BeginPrivate: 3
 BlueValues 27 [-46 0 1840 1874 2480 2520]
 OtherBlues 11 [-640 -640]
