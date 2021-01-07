@@ -3,7 +3,7 @@ FontName: Orelega-Bold
 FullName: Orelega Bold
 FamilyName: Orelega
 Weight: Bold
-Copyright: Copyright (c) 2019 UkiyoMoji Fonts
+Copyright: Copyright (c) 2019-2021 UkiyoMoji Fonts
 UComments: "2019-10-17: Created with FontForge (http://fontforge.org)+AAoA-2020-01-02: Added Cyrillic letters (no kerning)"
 Version: 001.1
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571294646
-ModificationTime: 1609995792
+ModificationTime: 1610001370
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -189,27 +189,23 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 0
 FitToEm: 0
-WinInfo: 800 25 17
+WinInfo: 975 25 17
 BeginPrivate: 3
 BlueValues 27 [-46 0 1840 1874 2480 2520]
 OtherBlues 11 [-640 -640]
 BlueScale 3 2.0
 EndPrivate
 Grid
--4096 296 m 0
- 8192 296 l 1024
--4096 1560 m 0
- 8192 1560 l 1024
-120 5344 m 4
- 120 -2848 l 1028
--4096 1840 m 4
- 8192 1840 l 1028
+120 5344 m 0
+ 120 -2848 l 1024
+-4096 1840 m 0
+ 8192 1840 l 1024
   Named: "x-Height"
--4096 2640 m 4
- 8192 2640 l 1028
+-4096 2640 m 0
+ 8192 2640 l 1024
   Named: "Asc Height (LC CURVED)"
--4096 2480 m 4
- 8192 2480 l 1028
+-4096 2480 m 0
+ 8192 2480 l 1024
   Named: "Cap Height (FLAT)"
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 0 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

@@ -2,7 +2,9 @@ StartChar: uni0410
 Encoding: 1040 1040 406
 Width: 2960
 VWidth: 0
-Flags: HW
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<80 341 741 1360 1600 1920 2637 2880> 640 320<800 2040> 2460 20G<1231.68 1688.86>
 LayerCount: 2
 Fore
 Refer: 33 65 N 1 0 0 1 0 0 2

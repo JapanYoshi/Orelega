@@ -2,8 +2,9 @@ StartChar: uni0400
 Encoding: 1024 1024 471
 Width: 2480
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 Refer: 106 200 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
