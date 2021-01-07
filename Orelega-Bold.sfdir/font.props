@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571294646
-ModificationTime: 1610001370
+ModificationTime: 1610006109
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -47,6 +47,7 @@ Lookup: 1 0 0 "Duck +ACIA-f+ACIA" { "Duck +ACIA-f+ACIA--1"  } []
 Lookup: 4 0 1 "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0" { "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "Dutch IJ/ij ligatures" { "Dutch IJ/ij ligatures-1"  } ['liga' ('latn' <'nld ' > ) ]
 Lookup: 6 0 0 "'calt' +ZYeBCE+dW1gwbnVwT1NbVwAA in +MOkwxjDzZYdbVwAA lookup 4" { "duck j after j"  "duck j after desc"  "duck f before f"  "duck f before asc"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' 'nld ' > ) ]
+Lookup: 260 0 0 "'mark' +MN4w/DCvMG5PTX9uYwdbmgAA lookup 1" { "'mark' +MN4w/DCvMG5PTX9uYwdbmgAA lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' 'nld ' > ) ]
 Lookup: 258 0 0 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA in +MOkwxjDzZYdbVwAA lookup 0" { "'kern' +aipm+DBNMKsw/DDLMPMwsAAA in +MOkwxjDzZYdbVwAA lookup 0-1" [614,0,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' 'nld ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -189,7 +190,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 0
 FitToEm: 0
-WinInfo: 975 25 17
+WinInfo: 950 25 17
 BeginPrivate: 3
 BlueValues 27 [-46 0 1840 1874 2480 2520]
 OtherBlues 11 [-640 -640]
@@ -209,5 +210,5 @@ Grid
   Named: "Cap Height (FLAT)"
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 0 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "ogonek"""  "cedilla"""  "top""" 
+AnchorClass2: "top"""  "top"""  "ogonek" "'mark' +MN4w/DCvMG5PTX9uYwdbmgAA lookup 1-1" "cedilla" "'mark' +MN4w/DCvMG5PTX9uYwdbmgAA lookup 1-1" "top" "'mark' +MN4w/DCvMG5PTX9uYwdbmgAA lookup 1-1"
 EndSplineFont

@@ -1,0 +1,18 @@
+StartChar: uni02CC
+Encoding: 716 716 583
+Width: 520
+Flags: HW
+HStem: -800 153<-1377.43 -1201.84>
+VStem: -1440 510<-453 -216> -1168 208<-453 -187>
+AnchorPoint: "ogonek" 440 80 mark 0
+LayerCount: 2
+Fore
+SplineSet
+80 100 m 1x7c
+ 440 100 l 1
+ 440 -530 l 1
+ 80 -530 l 1
+ 80 100 l 1x7c
+EndSplineSet
+Validated: 8388609
+EndChar

@@ -2,6 +2,11 @@ StartChar: uni0413
 Encoding: 1043 1043 409
 Width: 2400
 Flags: HW
+HStem: 0 320<120 440 1080 1640> 2160 320<120 440 1080 1872.16>
+VStem: 440 640<320 2160> 1920 360<1680 2130.52>
+AnchorPoint: "ogonek" 1640 80 basechar 0
+AnchorPoint: "top" 1240 2560 basechar 0
+AnchorPoint: "cedilla" 764 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet

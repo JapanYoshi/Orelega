@@ -1,0 +1,9 @@
+StartChar: uni04C7
+Encoding: 1223 1223 541
+Width: 1120
+VWidth: 0
+Flags: HW
+AnchorPoint: "top" 560 2560 basechar 0
+AnchorPoint: "cedilla" 604 80 basechar 0
+LayerCount: 2
+EndChar

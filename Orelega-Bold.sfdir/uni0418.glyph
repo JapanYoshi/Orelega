@@ -4,6 +4,7 @@ Width: 3040
 Flags: W
 HStem: 0 320<120 440 1640 1960 2600 2920> 2160 320<120 440 1080 1400 2600 2920>
 VStem: 440 640<878 2160> 1960 640<320 1602>
+AnchorPoint: "ogonek" 2920 80 basechar 0
 AnchorPoint: "top" 1536 2560 basechar 0
 AnchorPoint: "cedilla" 1540 80 basechar 0
 LayerCount: 2

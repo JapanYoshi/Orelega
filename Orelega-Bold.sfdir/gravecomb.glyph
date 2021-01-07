@@ -1,0 +1,13 @@
+StartChar: gravecomb
+Encoding: 768 768 510
+Width: 0
+VWidth: 0
+Flags: HW
+HStem: 2000 640
+VStem: -1060 897
+AnchorPoint: "top" -540 1920 mark 0
+LayerCount: 2
+Fore
+Refer: 84 96 N 1 0 0 1 -1140 0 2
+Validated: 1
+EndChar

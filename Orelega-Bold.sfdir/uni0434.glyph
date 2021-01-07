@@ -5,13 +5,15 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 0 320<650 1330> 1520 320<250 450 870 1330> 1520 50<450 870>
 VStem: 50 320<-480 0> 450 420<539.116 1570> 1330 560<320 1520> 1770 320<-480 0>
+AnchorPoint: "top" 1140 1920 basechar 0
+AnchorPoint: "cedilla" 1124 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 450 1570 m 1xb8
  870 1570 l 1
- 870 1160 l 6
- 870 780 810 450 650 250 c 5
+ 870 1160 l 2
+ 870 780 810 450 650 250 c 1
  250 320 l 1
  410 550 450 820 450 1160 c 2
  450 1570 l 1xb8

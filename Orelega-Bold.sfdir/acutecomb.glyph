@@ -5,8 +5,9 @@ VWidth: 0
 Flags: W
 HStem: 2000 640
 VStem: -977 897
+AnchorPoint: "top" -600 1920 mark 0
 LayerCount: 2
 Fore
-Refer: 83 180 S 1 0 0 1 -1060 0 2
+Refer: 83 180 N 1 0 0 1 -1060 0 2
 Validated: 1
 EndChar

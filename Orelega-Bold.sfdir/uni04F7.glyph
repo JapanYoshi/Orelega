@@ -1,0 +1,14 @@
+StartChar: uni04F7
+Encoding: 1271 1271 585
+Width: 1800
+VWidth: 0
+Flags: HW
+AnchorPoint: "top" 560 2560 basechar 0
+AnchorPoint: "cedilla" 604 80 basechar 0
+LayerCount: 2
+Fore
+Refer: 583 716 N 1 0 0 1 840 0 2
+Refer: 441 1075 N 1 0 0 1 0 0 3
+Validated: 1048581
+Decomposition: "+BDMCzAAA"
+EndChar

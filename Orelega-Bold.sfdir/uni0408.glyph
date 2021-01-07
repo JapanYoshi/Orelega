@@ -3,6 +3,8 @@ Encoding: 1032 1032 476
 Width: 2260
 VWidth: 0
 Flags: HW
+AnchorPoint: "top" 1460 2560 basechar 0
+AnchorPoint: "cedilla" 944 80 basechar 0
 LayerCount: 2
 Fore
 Refer: 42 74 N 1 0 0 1 0 0 2

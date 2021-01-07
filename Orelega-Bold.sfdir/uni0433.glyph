@@ -2,6 +2,7 @@ StartChar: uni0433
 Encoding: 1075 1075 441
 Width: 1800
 Flags: HW
+AnchorPoint: "ogonek" 1280 80 basechar 0
 AnchorPoint: "top" 980 1920 basechar 0
 AnchorPoint: "cedilla" 564 80 basechar 0
 LayerCount: 2

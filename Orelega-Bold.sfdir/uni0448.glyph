@@ -6,6 +6,9 @@ Flags: W
 HStem: 0 320<80 280 840 1440 2000 2600 3160 3360> 50 270<280 840 1440 2000 2600 3160> 1520 320<80 280 840 1040 1240 1440 2000 2200 2400 2600 3160 3360>
 VStem: 280 560<50 1520> 1440 560<50 1520> 2600 560<50 1520>
 CounterMasks: 1 1c
+AnchorPoint: "ogonek" 3360 80 basechar 0
+AnchorPoint: "top" 1740 1920 basechar 0
+AnchorPoint: "cedilla" 1724 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet

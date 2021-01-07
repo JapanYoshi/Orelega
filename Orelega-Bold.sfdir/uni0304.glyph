@@ -1,0 +1,13 @@
+StartChar: uni0304
+Encoding: 772 772 509
+Width: 0
+VWidth: 0
+Flags: HW
+HStem: 2080 320<80 1160>
+VStem: 80 1080<2080 2400>
+AnchorPoint: "top" -620 1920 mark 0
+LayerCount: 2
+Fore
+Refer: 223 175 S 1 0 0 1 -1240 0 2
+Validated: 1
+EndChar

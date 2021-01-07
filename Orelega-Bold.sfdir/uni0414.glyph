@@ -2,6 +2,8 @@ StartChar: uni0414
 Encoding: 1044 1044 410
 Width: 2880
 Flags: HW
+AnchorPoint: "top" 1470 2560 basechar 0
+AnchorPoint: "cedilla" 1474 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30,5 +32,5 @@ SplineSet
  1800 2160 l 1
  1130 2160 l 1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar

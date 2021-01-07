@@ -3,6 +3,9 @@ Encoding: 1045 1045 411
 Width: 2480
 VWidth: 0
 Flags: HW
+AnchorPoint: "top" 1240 2560 basechar 0
+AnchorPoint: "cedilla" 1244 80 basechar 0
+AnchorPoint: "ogonek" 2100 80 basechar 0
 LayerCount: 2
 Fore
 Refer: 37 69 N 1 0 0 1 0 0 2
