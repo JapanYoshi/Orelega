@@ -1,5 +1,9 @@
 ![](kerning.png)
 
+# Test Drive
+
+Click [here](https://codepen.io/japanyoshi/full/ExgRwLK) to try the font.
+
 # About
 
 Orelega is a whimsical Clarendon font with oversized ears. Its design was based on Sagona Extra Bold by René Bieder (available on [MyFonts](https://www.myfonts.com/fonts/rene-bieder/sagona/)), but it is not a shameless copy. Everything has been redrawn from the ground up, with many new aesthetic changes in letterform, such as:
