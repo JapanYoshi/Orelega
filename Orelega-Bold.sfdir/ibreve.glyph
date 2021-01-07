@@ -2,6 +2,7 @@ StartChar: ibreve
 Encoding: 301 301 178
 Width: 1120
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 HStem: 0 320<80 280 840 1040> 1520 320<80 280> 2000 280<379.342 740.658>
 VStem: -120 480<2297.69 2640> 280 560<320 1520> 760 480<2297.69 2640>
 LayerCount: 2

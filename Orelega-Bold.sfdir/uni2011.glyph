@@ -2,7 +2,7 @@ StartChar: uni2011
 Encoding: 8209 8209 355
 Width: 1240
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 800 320<80 1160>
 VStem: 80 1080<800 1120>
 LayerCount: 2

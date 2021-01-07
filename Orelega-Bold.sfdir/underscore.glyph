@@ -2,7 +2,7 @@ StartChar: underscore
 Encoding: 95 95 319
 Width: 1680
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -800 320<80 1600>
 LayerCount: 2
 Fore

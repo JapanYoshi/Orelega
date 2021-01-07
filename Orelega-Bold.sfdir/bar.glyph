@@ -2,7 +2,7 @@ StartChar: bar
 Encoding: 124 124 326
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
 VStem: 140 320<-800 2640>
 LayerCount: 2
 Fore

@@ -2,7 +2,7 @@ StartChar: colon
 Encoding: 58 58 26
 Width: 800
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -20 640<179.115 620.885> 1210 640<179.115 620.885>
 VStem: 80 640<79.1152 520.885 1309.12 1750.88>
 LayerCount: 2

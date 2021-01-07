@@ -2,12 +2,12 @@ StartChar: Oacute
 Encoding: 211 211 116
 Width: 2720
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -40 320<1088.91 1631.09> 2200 320<1086.12 1633.88> 2640 640
 VStem: 40 720<766.786 1713.21> 983 897 1960 720<766.786 1713.21>
 LayerCount: 2
 Fore
-Refer: 83 180 N 1 0 0 1 900 640 2
+Refer: 391 769 N 1 0 0 1 1888 642 2
 Refer: 47 79 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

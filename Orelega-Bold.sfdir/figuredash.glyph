@@ -2,7 +2,7 @@ StartChar: figuredash
 Encoding: 8210 8210 356
 Width: 2240
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1080 320<160 2080>
 LayerCount: 2
 Fore

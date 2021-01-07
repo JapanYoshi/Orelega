@@ -2,7 +2,7 @@ StartChar: minus
 Encoding: 8722 8722 371
 Width: 1680
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1080 320<80 1600>
 LayerCount: 2
 Fore

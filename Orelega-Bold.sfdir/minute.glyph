@@ -2,7 +2,7 @@ StartChar: minute
 Encoding: 8242 8242 364
 Width: 800
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 84 96 N 0 -1 1 0 -1920 2849 2

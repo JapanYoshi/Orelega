@@ -2,7 +2,7 @@ StartChar: parenright
 Encoding: 41 41 9
 Width: 1319
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -800 320<80 218.271> 2320 320<80 218.271>
 VStem: 560 680<279.798 1560.2>
 LayerCount: 2

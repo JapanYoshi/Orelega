@@ -2,7 +2,7 @@ StartChar: quotesingle
 Encoding: 39 39 7
 Width: 720
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1280 1280<221.288 498.712>
 VStem: 80 560<1598.95 2482.81>
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: equal
 Encoding: 61 61 29
 Width: 1680
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 720 320<80 1600> 1440 320<80 1600>
 LayerCount: 2
 Fore

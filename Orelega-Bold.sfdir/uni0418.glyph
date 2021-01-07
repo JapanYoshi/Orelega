@@ -1,7 +1,9 @@
 StartChar: uni0418
 Encoding: 1048 1048 414
 Width: 3040
-Flags: HW
+Flags: W
+HStem: 0 320<120 440 1640 1960 2600 2920> 2160 320<120 440 1080 1400 2600 2920>
+VStem: 440 640<878 2160> 1960 640<320 1602>
 AnchorPoint: "top" 1536 2560 basechar 0
 AnchorPoint: "cedilla" 1540 80 basechar 0
 LayerCount: 2
@@ -11,8 +13,8 @@ SplineSet
  1400 2480 l 1
  1400 2160 l 1
  1080 2160 l 1
- 1080 877.890625 l 1
- 2004.9765625 2480 l 1
+ 1080 878 l 1
+ 2005 2480 l 1
  2920 2480 l 1
  2920 2160 l 1
  2600 2160 l 1
@@ -22,8 +24,8 @@ SplineSet
  1640 0 l 1
  1640 320 l 1
  1960 320 l 1
- 1960 1602.109375 l 1
- 1035.0234375 0 l 1
+ 1960 1602 l 1
+ 1035 0 l 1
  120 0 l 1
  120 320 l 1
  440 320 l 1
@@ -31,4 +33,5 @@ SplineSet
  120 2160 l 1
  120 2480 l 1
 EndSplineSet
+Validated: 1
 EndChar

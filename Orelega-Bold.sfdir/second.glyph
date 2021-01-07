@@ -2,7 +2,7 @@ StartChar: second
 Encoding: 8243 8243 365
 Width: 1520
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 364 8242 S 1 0 0 1 720 0 2

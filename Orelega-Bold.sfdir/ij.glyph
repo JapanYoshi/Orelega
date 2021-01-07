@@ -32,6 +32,6 @@ SplineSet
  825 -120 968 -263 968 -440 c 0xf2
 EndSplineSet
 Refer: 75 105 N 1 0 0 1 0 0 2
-LCarets2: 1 0
 Ligature2: "Dutch IJ/ij ligatures-1" i j
+LCarets2: 1 0
 EndChar

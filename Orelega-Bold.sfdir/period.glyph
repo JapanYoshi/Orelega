@@ -2,7 +2,7 @@ StartChar: period
 Encoding: 46 46 14
 Width: 800
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -20 640<179.115 620.885>
 VStem: 80 640<79.1152 520.885>
 LayerCount: 2

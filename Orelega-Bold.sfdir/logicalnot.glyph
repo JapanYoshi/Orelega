@@ -2,7 +2,7 @@ StartChar: logicalnot
 Encoding: 172 172 343
 Width: 1680
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1280 320<80 1280>
 VStem: 1280 320<880 1280>
 LayerCount: 2

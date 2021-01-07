@@ -2,7 +2,7 @@ StartChar: bullet
 Encoding: 8226 8226 291
 Width: 1280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 360 1120<338.289 941.711>
 VStem: 80 1120<618.289 1221.71>
 LayerCount: 2

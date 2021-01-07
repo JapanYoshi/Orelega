@@ -2,7 +2,7 @@ StartChar: ordmasculine
 Encoding: 186 186 324
 Width: 1840
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 834 320<731.855 1097.94> 2200 320<731.855 1097.94>
 VStem: 80 560<1287.71 2066.29> 1200 560<1285.23 2068.77>
 LayerCount: 2

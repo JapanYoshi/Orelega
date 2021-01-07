@@ -2,7 +2,7 @@ StartChar: arrowup
 Encoding: 8593 8593 346
 Width: 2400
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -640 21G<1024 1376> 2460 20G<1120 1280>
 VStem: 1024 352<-640 378.543> 1064 272<713.577 1640>
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: asciitilde
 Encoding: 126 126 328
 Width: 1736
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 632 640<192.746 560.322 1183.36 1549.74>
 VStem: 80 560<709.549 936.952> 1096 560<959.048 1186.45>
 LayerCount: 2

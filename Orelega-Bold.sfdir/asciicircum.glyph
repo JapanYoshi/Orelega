@@ -2,7 +2,7 @@ StartChar: asciicircum
 Encoding: 94 94 318
 Width: 1560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1520 960<520 560 960 1000>
 LayerCount: 2
 Fore

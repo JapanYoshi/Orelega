@@ -2,7 +2,7 @@ StartChar: guillemotright
 Encoding: 187 187 370
 Width: 2080
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 240 1360
 VStem: 80 880<680 800 1040 1160> 1120 880<680 800 1040 1160>
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: plus
 Encoding: 43 43 11
 Width: 1680
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1080 320<80 680 1000 1600>
 VStem: 680 320<480 1080 1400 2000>
 LayerCount: 2

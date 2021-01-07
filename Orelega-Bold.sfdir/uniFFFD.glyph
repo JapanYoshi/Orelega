@@ -2,7 +2,7 @@ StartChar: uniFFFD
 Encoding: 65533 65533 350
 Width: 3280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -640 424<1023.5 2071> 2226 254<1390.47 2078.09>
 VStem: 80 712<-7.5 1351> 1709 477<1497.66 1748.51> 2762 438<489 1431.03>
 LayerCount: 2

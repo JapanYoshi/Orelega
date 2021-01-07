@@ -2,6 +2,7 @@ StartChar: ycircumflex
 Encoding: 375 375 214
 Width: 2320
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 HStem: -800 305<403 821.111> 1520 320<80 268 871 1200 1400 1680 2028 2240> 2000 640<890 930 1330 1370>
 VStem: 80 640<-464.655 -219.115>
 LayerCount: 2

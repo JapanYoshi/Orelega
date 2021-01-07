@@ -2,7 +2,7 @@ StartChar: degree
 Encoding: 176 176 369
 Width: 1520
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1160 320<606.932 913.068> 2200 320<606.932 913.068>
 VStem: 80 480<1515.1 2164.9> 960 480<1515.1 2164.9>
 LayerCount: 2

@@ -1,6 +1,27 @@
 StartChar: uni0442
 Encoding: 1090 1090 456
-Width: 1000
+Width: 2000
 Flags: HW
 LayerCount: 2
+Fore
+SplineSet
+80 1040 m 1
+ 80 1840 l 1
+ 1920 1840 l 1
+ 1920 1040 l 1
+ 1600 1040 l 1
+ 1600 1520 l 1
+ 1280 1520 l 1
+ 1280 320 l 1
+ 1560 320 l 1
+ 1560 0 l 1
+ 440 0 l 1
+ 440 320 l 1
+ 720 320 l 1
+ 720 1520 l 1
+ 400 1520 l 1
+ 400 1040 l 1
+ 80 1040 l 1
+EndSplineSet
+Validated: 1
 EndChar

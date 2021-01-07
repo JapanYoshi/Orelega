@@ -2,7 +2,7 @@ StartChar: Dcroat
 Encoding: 272 272 375
 Width: 2780
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 320<120 440 1080 1709.08> 960 320<120 1560> 2160 320<120 440 1080 1711.09>
 VStem: 440 640<320 2160> 2040 720<774.958 1705.04>
 LayerCount: 2

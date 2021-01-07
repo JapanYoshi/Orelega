@@ -2,7 +2,7 @@ StartChar: guilsinglright
 Encoding: 8250 8250 367
 Width: 1040
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 240 1360
 VStem: 80 880<680 800 1040 1160>
 LayerCount: 2
