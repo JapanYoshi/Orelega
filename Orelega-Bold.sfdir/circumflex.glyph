@@ -4,7 +4,6 @@ Width: 1600
 VWidth: 0
 Flags: W
 HStem: 2000 640<560 600 1000 1040>
-AnchorPoint: "top" 800 1920 mark 0
 LayerCount: 2
 Fore
 SplineSet

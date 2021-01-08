@@ -6,7 +6,6 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -800 240<553.091 876.357> -280 360<720 862.501>
 VStem: 80 560<-447.243 -237.186> 720 200<-102.29 80> 883 377<-549.846 -304.574>
-AnchorPoint: "cedilla" 804 80 mark 0
 LayerCount: 2
 Fore
 SplineSet

@@ -5,7 +5,6 @@ VWidth: 0
 Flags: W
 HStem: 1984 640<167.064 549.357 1178.31 1564.01>
 VStem: 80 560<2069.55 2292.17> 1096 560<2323.83 2546.45>
-AnchorPoint: "top" 870 1920 mark 0
 LayerCount: 2
 Fore
 SplineSet
