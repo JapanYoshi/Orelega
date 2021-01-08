@@ -3,11 +3,11 @@ Encoding: 318 318 260
 Width: 1120
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 320<80 280 840 1040> 2160 320<80 280> 2556 153<381.565 557.165>
 VStem: 280 560<320 2160> 319 510<2903 3140> 591 208<2903 3169>
 LayerCount: 2
 Fore
-Refer: 257 700 N 1 0 0 1 239 636 2
+Refer: 257 700 S 1 0 0 1 849 -4 2
 Refer: 90 108 N 1 0 0 1 0 0 2
 EndChar
