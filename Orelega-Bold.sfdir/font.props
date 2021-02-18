@@ -22,25 +22,25 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571294646
-ModificationTime: 1610080280
+ModificationTime: 1613661365
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
 LineGap: 369
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 3296
+OS2TypoAOffset: 0
+OS2TypoDescent: -801
+OS2TypoDOffset: 0
 OS2TypoLinegap: 369
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 3480
+OS2WinAOffset: 0
+OS2WinDescent: 801
+OS2WinDOffset: 0
+HheadAscent: 3296
+HheadAOffset: 0
+HheadDescent: -801
+HheadDOffset: 0
 OS2FamilyClass: 1025
 OS2Vendor: 'Ukyo'
 Lookup: 1 0 0 "Duck Substitution" { "Duct"  } []
@@ -189,10 +189,10 @@ Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -36
-AntiAlias: 0
+DisplaySize: -72
+AntiAlias: 1
 FitToEm: 0
-WinInfo: 78 26 17
+WinInfo: 0 22 15
 BeginPrivate: 3
 BlueValues 27 [-46 0 1840 1874 2480 2520]
 OtherBlues 11 [-640 -640]
