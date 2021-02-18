@@ -3,6 +3,7 @@ Encoding: 345 345 197
 Width: 1880
 VWidth: 0
 UnlinkRmOvrlpSave: 1
+Flags: H
 HStem: 0 320<80 280 840 1280> 1520 320<80 280> 1520 360<1014.76 1406.01> 1996 640<739 779 1179 1219>
 VStem: 280 560<320 1200>
 LayerCount: 2

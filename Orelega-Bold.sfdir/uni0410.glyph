@@ -10,5 +10,5 @@ AnchorPoint: "cedilla" 1464 80 basechar 0
 AnchorPoint: "ogonek" 2640 80 basechar 0
 LayerCount: 2
 Fore
-Refer: 33 65 N 1 0 0 1 0 0 2
+Refer: 33 65 S 1 0 0 1 0 0 2
 EndChar

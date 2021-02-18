@@ -5,6 +5,6 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 113 207 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 93 168 S 1 0 0 1 -120 640 2
+Refer: 41 73 S 1 0 0 1 0 0 3
 EndChar

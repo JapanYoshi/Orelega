@@ -8,6 +8,5 @@ VStem: 77 649<1401.47 1823.47> 957 649<1401.47 1823.47>
 LayerCount: 2
 Fore
 Refer: 265 8216 N 1 0 0 1 880 0 2
-Refer: 265 8216 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 265 8216 S 1 0 0 1 0 0 2
 EndChar
