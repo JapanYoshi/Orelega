@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571294646
-ModificationTime: 1613663636
+ModificationTime: 1613669212
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -184,7 +184,7 @@ ChainSub2: class "duck j after desc" 3 3 3 1
   BClassNames: "All_Others" "j" "desc"
   FClassNames: "All_Others" "j" "desc"
 EndFPST
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
