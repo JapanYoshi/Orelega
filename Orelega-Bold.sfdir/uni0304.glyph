@@ -8,6 +8,11 @@ VStem: 80 1080<2080 2400>
 AnchorPoint: "top" -620 1920 mark 0
 LayerCount: 2
 Fore
-Refer: 223 175 S 1 0 0 1 -1240 0 2
-Validated: 1
+SplineSet
+-1160 2080 m 1
+ -1160 2400 l 1
+ -80 2400 l 1
+ -80 2080 l 1
+ -1160 2080 l 1
+EndSplineSet
 EndChar
