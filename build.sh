@@ -1,4 +1,4 @@
-TTF="ttf/Orelega-Bold.ttf"
+TTF="ttf/OrelegaOne-Bold.ttf"
 
 # Delete old TTF
 rm $TTF
