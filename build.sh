@@ -1,4 +1,4 @@
-TTF="ttf/OrelegaOne-Bold.ttf"
+TTF="ttf/OrelegaOne-Regular.ttf"
 
 # Delete old TTF
 rm $TTF
@@ -7,7 +7,7 @@ rm $TTF
 set -e
 
 # Generate Font
-fontforge -c 'open(argv[1]).generate(argv[2])' Orelega-Bold.sfdir $TTF
+fontforge -c 'open(argv[1]).generate(argv[2])' OrelegaOne-Regular.sfdir $TTF
 
 # Autohint
 ttfautohint -t $TTF $TTF.hinted
