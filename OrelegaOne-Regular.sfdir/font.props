@@ -16,13 +16,12 @@ LayerCount: 2
 Layer: 0 0 "+gMyXYgAA" 1
 Layer: 1 0 "+Uk2XYgAA" 0
 XUID: [1021 734 -1507982095 5434]
-StyleMap: 0x0020
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571294646
-ModificationTime: 1613669212
+ModificationTime: 1615539430
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
