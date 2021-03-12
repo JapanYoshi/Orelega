@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: Orelega-Bold
-FullName: Orelega Bold
-FamilyName: Orelega
-Weight: Bold
-Copyright: Copyright 2021 The Orelega Project Authors (https://github.com/JapanYoshi/Orelega)
+FontName: OrelegaOne-Regular
+FullName: Orelega One Regular
+FamilyName: Orelega One
+Weight: Regular
+Copyright: Copyright 2021 The Orelega One Project Authors (https://github.com/JapanYoshi/Orelega)
 UComments: "2019-10-17: Created with FontForge (http://fontforge.org)+AAoA-2020-01-02: Added Cyrillic letters (no kerning)"
 Version: 1.1
 ItalicAngle: 0
@@ -16,15 +16,14 @@ LayerCount: 2
 Layer: 0 0 "+gMyXYgAA" 1
 Layer: 1 0 "+Uk2XYgAA" 0
 XUID: [1021 734 -1507982095 5434]
-StyleMap: 0x0020
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571294646
-ModificationTime: 1613669212
+ModificationTime: 1615539430
 PfmFamily: 17
-TTFWeight: 700
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 369
 VLineGap: 0
