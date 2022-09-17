@@ -25,7 +25,7 @@ Orelega is a whimsical Clarendon font with oversized ears. Its design was based 
   * the completely original and even bigger-eared diacritical marks (like cedilla, tilde and ogonek).
 * **Cyrillic (not supported by Sagona):**
   * swashy ascender on «б» and swashy descender on «ц щ» inspired by [Alice](https://www.fontsquirrel.com/fonts/alice) by Cyreal
-  * traditional curly diagonals for «Жж Кк Яя» and trapezoidal form for «Дд Лл»
+  * traditional curly diagonals for «Жж Кк Яя» and trapezoidal flat-top form for «Дд Лл»
 
 However, it lacks many extra features of Sagona, like full weights, italics, swash letters, small caps, all-caps alternates, and other stylistic alternates.
 
@@ -39,6 +39,6 @@ Because I cannot afford Glyphs, Orelega is developed on the free font editor Fon
 
 To export to a font file, open the project and navigate to File > Generate. Then on the dialog box, choose your file name, save location, and format, then press Generate again.
 
-# TODO
-* kerning is imperfect (Latin) or unfinished (Cyrillic)
-* regular weight has been drawn, but not assembled as a font file
+# Known issues
+* kerning is imperfect
+* regular weight has been drawn, but not assembled as a font file (In progress at [branch `regular-weight`](https://github.com/japanyoshi/orelega/tree/regular-weight))
