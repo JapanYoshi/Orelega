@@ -1,10 +1,10 @@
 StartChar: uni04A2
 Encoding: 1186 1186 528
-Width: 3040
-Flags: H
+Width: 2720
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 582 716 N 1 0 0 1 2480 0 2
+Refer: 582 716 S 1 0 0 1 2260 0 2
 Refer: 419 1053 N 1 0 0 1 0 0 3
 Decomposition: "+BB0DRQAA"
 EndChar

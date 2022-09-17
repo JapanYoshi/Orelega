@@ -1,15 +1,15 @@
 StartChar: k
 Encoding: 107 107 80
-Width: 2280
+Width: 2120
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 320<80 280 840 1040 1240 1452 2120 2200> 1520 320<1200 1649 2034 2160> 2160 320<80 280>
 VStem: 280 560<320 2160>
-AnchorPoint: "cedilla" 1124 80 basechar 0
-AnchorPoint: "top" 1000 2560 basechar 0
+AnchorPoint: "cedilla" 1044 80 basechar 0
+AnchorPoint: "top" 920 2560 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 80 2480 m 1
  840 2480 l 1
@@ -42,5 +42,39 @@ SplineSet
  2120 200 l 1
  1452 200 l 1
  920 960 l 1
+EndSplineSet
+Fore
+SplineSet
+80 2480 m 1
+ 600 2480 l 1
+ 600 240 l 1
+ 800 240 l 1
+ 800 0 l 1
+ 80 0 l 1
+ 80 240 l 1
+ 280 240 l 1
+ 280 2240 l 1
+ 80 2240 l 1
+ 80 2480 l 1
+1240 240 m 1
+ 2040 240 l 1
+ 2040 0 l 1
+ 1240 0 l 1
+ 1240 240 l 1
+1160 1600 m 1
+ 1160 1840 l 1
+ 2000 1840 l 1
+ 2000 1600 l 1
+ 1160 1600 l 1
+1544 1760 m 1
+ 1771.42871094 1669.890625 l 1
+ 984.571289062 869.8984375 l 1
+ 757.142578125 960 l 1
+ 1544 1760 l 1
+757.142578125 960 m 5
+ 1019.80273438 1080 l 5
+ 1880 240 l 1
+ 1608.37402344 120 l 1
+ 757.142578125 960 l 5
 EndSplineSet
 EndChar

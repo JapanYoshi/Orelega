@@ -1,9 +1,9 @@
 StartChar: uni0441
 Encoding: 1089 1089 455
-Width: 2034
+Width: 1874
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -40 332<884.946 1472.7> 1560 320<876.779 1459.62>
 VStem: 100 594<499.927 1342.1> 1294 640<1019.12 1417>
 AnchorPoint: "ogonek" 1530 80 basechar 0

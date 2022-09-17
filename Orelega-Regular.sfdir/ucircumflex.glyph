@@ -1,12 +1,12 @@
 StartChar: ucircumflex
 Encoding: 251 251 147
-Width: 2280
+Width: 2120
 VWidth: 0
-Flags: H
+Flags: HW
 HStem: -40 360<651.063 1229.9> 0 320<2000 2200> 1520 320<80 280 1240 1440> 2000 640<890 930 1330 1370>
 VStem: 280 560<378.991 1520> 1436 564<469.944 1520>
 LayerCount: 2
 Fore
-Refer: 89 710 N 1 0 0 1 330 0 2
+Refer: 511 770 N 1 0 0 1 1850 0 2
 Refer: 94 117 N 1 0 0 1 0 0 3
 EndChar

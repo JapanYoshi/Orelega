@@ -1,19 +1,19 @@
 StartChar: tbar
 Encoding: 359 359 301
-Width: 1560
+Width: 1320
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -40 360<858.876 1180.74> 960 320<80 1400> 1520 320<80 277.248 840 1400>
 VStem: 280 560<339.094 1520> 1240 240<381.809 524.779>
 LayerCount: 2
 Fore
 SplineSet
-80 1280 m 5
- 1400 1280 l 5
- 1400 960 l 5
- 80 960 l 5
- 80 1280 l 5
+80 1280 m 1
+ 1160 1280 l 1
+ 1160 1040 l 5
+ 80 1040 l 5
+ 80 1280 l 1
 EndSplineSet
 Refer: 92 116 N 1 0 0 1 0 0 3
 EndChar

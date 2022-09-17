@@ -1,6 +1,6 @@
 StartChar: sacute
 Encoding: 347 347 199
-Width: 1800
+Width: 1640
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,6 +8,6 @@ HStem: -40 320<604.496 1129.4> 120 280<245 555> 1440 280<1205 1515> 1560 280<660
 VStem: 120 560<245 602.814> 160 480<1245.68 1530.51> 451 897 1080 560<1237.19 1595> 1160 520<318.778 627.708>
 LayerCount: 2
 Fore
-Refer: 391 769 N 1 0 0 1 1428 -4 2
+Refer: 391 769 N 1 0 0 1 1420 0 2
 Refer: 88 115 N 1 0 0 1 0 0 3
 EndChar

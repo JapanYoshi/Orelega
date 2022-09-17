@@ -1,9 +1,9 @@
 StartChar: uni04AF
 Encoding: 1199 1199 508
-Width: 2320
+Width: 2160
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -640 950<870 1430> -640 320<670 870 1430 1630> 0 21G<927.211 1368.79> 1520 320<80 268 871 1200 1400 1680 2028 2240>
 VStem: 870 560<-320 310>
 AnchorPoint: "top" 1130 1920 basechar 0

@@ -1,6 +1,6 @@
 StartChar: ecaron
 Encoding: 283 283 166
-Width: 2096
+Width: 1916
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,6 +8,6 @@ HStem: -52 332<884.946 1472.7> 800 320<400 1422> 908 212<1422 1495> 1560 320<839
 VStem: 400 294<800 1120>
 LayerCount: 2
 Fore
-Refer: 222 711 N 1 0 0 1 259 -4 2
+Refer: 518 780 N 1 0 0 1 1779 -4 2
 Refer: 71 101 N 1 0 0 1 0 0 3
 EndChar

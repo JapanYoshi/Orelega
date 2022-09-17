@@ -1,14 +1,17 @@
 StartChar: i
 Encoding: 105 105 75
-Width: 1120
+Width: 880
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 320<80 280 840 1040> 1520 320<80 280> 1960 640<339.115 780.885>
 VStem: 240 640<2059.12 2500.88> 280 560<320 1520>
-AnchorPoint: "ogonek" 800 80 basechar 0
-AnchorPoint: "cedilla" 564 80 basechar 0
+AnchorPoint: "ogonek" 680 80 basechar 0
+AnchorPoint: "cedilla" 444 80 basechar 0
 LayerCount: 2
-Fore
+Back
 Refer: 79 729 S 1 0 0 1 160 0 2
 Refer: 78 305 S 1 0 0 1 0 0 3
+Fore
+Refer: 514 775 N 1 0 0 1 840 0 2
+Refer: 78 305 N 1 0 0 1 0 0 3
 EndChar

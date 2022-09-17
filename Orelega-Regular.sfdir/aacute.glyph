@@ -1,6 +1,6 @@
 StartChar: aacute
 Encoding: 225 225 126
-Width: 2100
+Width: 1940
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,6 +8,6 @@ HStem: -46 320<506.5 1117.84> 0 320<1800 2000> 722 279<506.5 1134.19> 1566 314<6
 VStem: 100 599<308.622 689.606> 154 640<1179.12 1456.72> 601 897 1240 560<384 1497.06>
 LayerCount: 2
 Fore
-Refer: 391 769 N 1 0 0 1 1578 2 2
+Refer: 391 769 N 1 0 0 1 1540 0 2
 Refer: 62 97 N 1 0 0 1 0 0 3
 EndChar

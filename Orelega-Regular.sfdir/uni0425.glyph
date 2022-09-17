@@ -1,10 +1,10 @@
 StartChar: uni0425
 Encoding: 1061 1061 427
-Width: 2920
+Width: 2600
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: 0 320<120 400 659 1200 1520 1798 2589 2800> 2160 320<120 1400 1720 2261 2520 2800>
+Flags: HW
+HStem: 0 320<-40 240 499 1040 1360 1638 2429 2640> 2160 320<-40 1240 1560 2101 2360 2640>
 AnchorPoint: "ogonek" 2800 80 basechar 0
 AnchorPoint: "top" 1540 2560 basechar 0
 AnchorPoint: "cedilla" 1384 80 basechar 0

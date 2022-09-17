@@ -1,10 +1,9 @@
 StartChar: uni018E
 Encoding: 398 398 403
-Width: 2480
+Width: 2200
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 37 69 N -1 0 0 -1 2480 2480 2
-Validated: 1
+Refer: 37 69 S -1 0 0 -1 2200 2480 2
 EndChar

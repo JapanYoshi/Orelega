@@ -1,9 +1,9 @@
 StartChar: lcaron
 Encoding: 318 318 260
-Width: 1120
+Width: 880
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 320<80 280 840 1040> 1916 153<991.565 1167.16> 2160 320<80 280>
 VStem: 280 560<320 2160> 929 510<2263 2500> 1201 208<2263 2529>
 LayerCount: 2

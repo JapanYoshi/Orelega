@@ -1,21 +1,21 @@
 StartChar: uni0404
 Encoding: 1028 1028 490
-Width: 2520
+Width: 2240
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: -40 320<1158.53 1747.34> 960 320<440 1696> 2200 320<1120.78 1758.29>
-VStem: 40 720<766.786 1713.21> 2120 320<706.061 927.168>
+Flags: HW
+HStem: -40 320<938.53 1527.34> 960 320<220 1476> 2200 320<900.78 1538.29>
+VStem: -180 720<766.786 1713.21> 1900 320<706.061 927.168>
 AnchorPoint: "top" 1380 2560 basechar 0
 AnchorPoint: "cedilla" 1384 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1696 960 m 1
- 440 960 l 1
- 440 1280 l 1
- 1696 1280 l 1
- 1696 960 l 1
+1476 960 m 1
+ 220 960 l 1
+ 220 1280 l 1
+ 1476 1280 l 1
+ 1476 960 l 1
 EndSplineSet
 Refer: 35 67 N 1 0 0 1 0 0 2
 EndChar

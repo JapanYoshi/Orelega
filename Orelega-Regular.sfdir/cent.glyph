@@ -1,19 +1,19 @@
 StartChar: cent
 Encoding: 162 162 393
-Width: 2034
+Width: 1874
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -40 332<884.946 1472.7> 1560 320<876.779 1459.62>
 VStem: 100 594<499.927 1342.1> 900 320<-400 2240> 1294 640<1019.12 1417>
 LayerCount: 2
 Fore
 SplineSet
-900 -400 m 1
- 900 2240 l 1
- 1220 2240 l 1
- 1220 -400 l 1
- 900 -400 l 1
+810 -400 m 5
+ 810 2240 l 5
+ 1070 2240 l 5
+ 1070 -400 l 5
+ 810 -400 l 5
 EndSplineSet
 Refer: 66 99 N 1 0 0 1 0 0 2
 EndChar

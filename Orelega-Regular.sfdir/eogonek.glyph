@@ -1,9 +1,9 @@
 StartChar: eogonek
 Encoding: 281 281 275
-Width: 2096
+Width: 1916
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -760 232<1437 1740> -52 332<884.946 1472.7> 800 320<400 1422> 908 212<1422 1495> 1560 320<839.492 1277.83>
 VStem: 400 294<800 1120> 1100 280<-572.151 -49.8567> 1420 640<-542.737 -219.115>
 LayerCount: 2

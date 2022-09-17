@@ -1,12 +1,12 @@
 StartChar: zdotaccent
 Encoding: 380 380 219
-Width: 1800
+Width: 1640
 VWidth: 0
 Flags: HW
 HStem: 0 320<792 1360> 1520 320<440 976> 1960 640<669.115 1110.88>
 VStem: 120 320<1040 1520> 570 640<2059.12 2500.88> 1360 320<320 800>
 LayerCount: 2
 Fore
-Refer: 79 729 N 1 0 0 1 490 0 2
+Refer: 514 775 N 1 0 0 1 1210 0 2
 Refer: 99 122 N 1 0 0 1 0 0 3
 EndChar

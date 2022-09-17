@@ -1,9 +1,9 @@
 StartChar: uni045B
 Encoding: 1115 1115 493
-Width: 2280
+Width: 2120
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 320<80 280 840 1040 1240 1440 2000 2200> 1380 380<1069.51 1638> 1760 320<80 1000> 2160 320<80 280>
 VStem: 280 560<320 2160> 1440 560<320 1338.09>
 AnchorPoint: "top" 1160 2560 basechar 0

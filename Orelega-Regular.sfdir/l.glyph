@@ -1,14 +1,14 @@
 StartChar: l
 Encoding: 108 108 90
-Width: 1120
+Width: 880
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 320<80 280 840 1040> 2160 320<80 280>
 VStem: 280 560<320 2160>
-AnchorPoint: "cedilla" 604 80 basechar 0
-AnchorPoint: "top" 560 2560 basechar 0
+AnchorPoint: "cedilla" 484 80 basechar 0
+AnchorPoint: "top" 440 2560 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 80 2480 m 1
  840 2480 l 1
@@ -22,5 +22,18 @@ SplineSet
  80 2160 l 1
  80 2480 l 1
 EndSplineSet
-Validated: 1
+Fore
+SplineSet
+80 2480 m 1
+ 600 2480 l 1
+ 600 240 l 1
+ 800 240 l 1
+ 800 0 l 1
+ 80 0 l 1
+ 80 240 l 1
+ 280 240 l 1
+ 280 2240 l 1
+ 80 2240 l 1
+ 80 2480 l 1
+EndSplineSet
 EndChar

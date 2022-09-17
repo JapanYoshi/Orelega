@@ -1,13 +1,13 @@
 StartChar: acircumflex
 Encoding: 226 226 127
-Width: 2100
+Width: 1940
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -46 320<506.5 1117.84> 0 320<1800 2000> 722 279<506.5 1134.19> 1566 314<689.247 1172.59> 2000 640<780 820 1220 1260>
 VStem: 100 599<308.622 689.606> 154 640<1179.12 1456.72> 1240 560<384 1497.06>
 LayerCount: 2
 Fore
-Refer: 89 710 N 1 0 0 1 220 0 2
+Refer: 511 770 N 1 0 0 1 1740 0 2
 Refer: 62 97 N 1 0 0 1 0 0 3
 EndChar
