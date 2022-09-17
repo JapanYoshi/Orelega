@@ -1,0 +1,22 @@
+StartChar: acutecomb
+Encoding: 769 769 391
+Width: 0
+VWidth: 0
+Flags: HW
+HStem: 2000 640
+VStem: -977 897
+AnchorPoint: "top" -600 1920 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-961 2090 m 2
+ -481 2570 l 2
+ -437 2614 -377 2639 -315 2639 c 0
+ -185 2639 -80 2534 -80 2404 c 0
+ -80 2298 -151 2205 -254 2177 c 2
+ -910 2001 l 2
+ -914 2000 -919 1999 -924 1999 c 0
+ -953 1999 -977 2023 -977 2052 c 0
+ -977 2066 -971 2080 -961 2090 c 2
+EndSplineSet
+EndChar

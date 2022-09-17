@@ -1,0 +1,14 @@
+StartChar: uniE107
+Encoding: 57607 57607 383
+Width: 2560
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<160 360 920 1280 1520 1720 2280 2480> 1520 320<80 1720> 2000 640 2351 289<748.531 1100>
+VStem: 360 373<2002.44 2339.78> 360 560<320 1992.57> 840 640<2059.12 2457> 1543 897 1720 560<320 1520>
+LayerCount: 2
+Fore
+Refer: 83 180 S 1 0 0 1 1460 0 2
+Refer: 334 57600 N 1 0 0 1 0 0 2
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" f iacute
+EndChar

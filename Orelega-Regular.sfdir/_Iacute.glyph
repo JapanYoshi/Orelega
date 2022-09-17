@@ -1,0 +1,14 @@
+StartChar: Iacute
+Encoding: 205 205 111
+Width: 1520
+VWidth: 0
+Flags: W
+HStem: 0 320<120 440 1080 1400> 2160 320<120 440 1080 1400> 2640 640
+VStem: 383 897 440 640<320 2160>
+LayerCount: 2
+Fore
+Refer: 83 180 N 1 0 0 1 300 640 2
+Refer: 41 73 N 1 0 0 1 0 0 3
+Validated: 1
+Decomposition: "I+ALQA"
+EndChar

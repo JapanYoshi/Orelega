@@ -1,0 +1,18 @@
+StartChar: uni0304
+Encoding: 772 772 509
+Width: 0
+VWidth: 0
+Flags: HW
+HStem: 2080 320<80 1160>
+VStem: 80 1080<2080 2400>
+AnchorPoint: "top" -620 1920 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-1160 2080 m 1
+ -1160 2400 l 1
+ -80 2400 l 1
+ -80 2080 l 1
+ -1160 2080 l 1
+EndSplineSet
+EndChar

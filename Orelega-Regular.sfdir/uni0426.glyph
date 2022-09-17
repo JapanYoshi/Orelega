@@ -1,0 +1,36 @@
+StartChar: uni0426
+Encoding: 1062 1062 428
+Width: 3040
+Flags: HW
+AnchorPoint: "top" 1520 2560 basechar 0
+AnchorPoint: "cedilla" 1524 80 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+120 2480 m 1
+ 1400 2480 l 1
+ 1400 2160 l 1
+ 1080 2160 l 1
+ 1080 320 l 1
+ 1960 320 l 1
+ 1960 2160 l 1
+ 1640 2160 l 1
+ 1640 2480 l 1
+ 2920 2480 l 1
+ 2920 2160 l 1
+ 2600 2160 l 1
+ 2600 320 l 1
+ 2920 320 l 1
+ 2920 -480 l 1
+ 2560 -480 l 1
+ 2560 -320 l 2
+ 2560 -200 2520 0 2400 0 c 2
+ 120 0 l 1
+ 120 320 l 1
+ 440 320 l 1
+ 440 2160 l 1
+ 120 2160 l 1
+ 120 2480 l 1
+EndSplineSet
+Validated: 1
+EndChar

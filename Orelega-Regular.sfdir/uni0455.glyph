@@ -1,0 +1,11 @@
+StartChar: uni0455
+Encoding: 1109 1109 474
+Width: 1800
+VWidth: 0
+Flags: HW
+AnchorPoint: "top" 900 1920 basechar 0
+AnchorPoint: "cedilla" 924 80 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 115 N 1 0 0 1 0 0 2
+EndChar

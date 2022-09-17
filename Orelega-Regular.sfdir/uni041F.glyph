@@ -1,0 +1,34 @@
+StartChar: uni041F
+Encoding: 1055 1055 421
+Width: 3040
+Flags: HW
+AnchorPoint: "ogonek" 2920 80 basechar 0
+AnchorPoint: "top" 1520 2560 basechar 0
+AnchorPoint: "cedilla" 1524 80 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+120 2480 m 1
+ 2920 2480 l 1
+ 2920 2160 l 1
+ 2600 2160 l 1
+ 2600 320 l 1
+ 2920 320 l 1
+ 2920 0 l 1
+ 1640 0 l 1
+ 1640 320 l 1
+ 1960 320 l 1
+ 1960 2160 l 1
+ 1080 2160 l 1
+ 1080 320 l 1
+ 1400 320 l 1
+ 1400 0 l 1
+ 120 0 l 1
+ 120 320 l 1
+ 440 320 l 1
+ 440 2160 l 1
+ 120 2160 l 1
+ 120 2480 l 1
+EndSplineSet
+Validated: 1
+EndChar

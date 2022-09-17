@@ -1,0 +1,38 @@
+StartChar: uni0438
+Encoding: 1080 1080 446
+Width: 2320
+Flags: W
+HStem: 0 320<100 300 1260 1460 2020 2220> 1520 320<100 300 860 1060 2020 2220>
+VStem: 300 560<686 1520> 1460 560<320 1085>
+AnchorPoint: "ogonek" 2220 80 basechar 0
+AnchorPoint: "cedilla" 1124 80 basechar 0
+AnchorPoint: "top" 1180 1920 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1260 0 m 5
+ 1260 320 l 5
+ 1460 320 l 5
+ 1460 1085 l 5
+ 834 0 l 5
+ 100 0 l 5
+ 100 320 l 5
+ 300 320 l 5
+ 300 1520 l 5
+ 100 1520 l 5
+ 100 1840 l 5
+ 1060 1840 l 5
+ 1060 1520 l 5
+ 860 1520 l 5
+ 860 686 l 5
+ 1526 1840 l 5
+ 2220 1840 l 5
+ 2220 1520 l 5
+ 2020 1520 l 5
+ 2020 320 l 5
+ 2220 320 l 5
+ 2220 0 l 5
+ 1260 0 l 5
+EndSplineSet
+Validated: 1
+EndChar

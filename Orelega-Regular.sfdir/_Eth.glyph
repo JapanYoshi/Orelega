@@ -1,0 +1,19 @@
+StartChar: Eth
+Encoding: 208 208 299
+Width: 2780
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<120 440 1080 1709.08> 960 320<120 1560> 2160 320<120 440 1080 1711.09>
+VStem: 440 640<320 2160> 2040 720<774.958 1705.04>
+LayerCount: 2
+Fore
+SplineSet
+120 1280 m 5
+ 1560 1280 l 5
+ 1560 960 l 5
+ 120 960 l 5
+ 120 1280 l 5
+EndSplineSet
+Refer: 36 68 N 1 0 0 1 0 0 2
+EndChar

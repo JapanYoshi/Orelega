@@ -1,0 +1,13 @@
+StartChar: uni0439
+Encoding: 1081 1081 447
+Width: 2320
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<100 300 1260 1460 2020 2220> 1520 320<100 300 860 1060 2020 2220> 2000 280<999.342 1360.66>
+VStem: 300 560<686 1520> 500 480<2297.69 2640> 1380 480<2297.69 2640> 1460 560<320 1085>
+AnchorPoint: "ogonek" 2220 80 basechar 0
+LayerCount: 2
+Fore
+Refer: 68 728 N 1 0 0 1 420 0 2
+Refer: 446 1080 N 1 0 0 1 0 0 3
+EndChar

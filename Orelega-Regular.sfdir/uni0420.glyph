@@ -1,0 +1,15 @@
+StartChar: uni0420
+Encoding: 1056 1056 422
+Width: 2500
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 320<120 440 1080 1480> 960 320<1080 1571.08> 2160 320<120 440 1080 1587.05>
+VStem: 440 640<320 960 1280 2160> 1720 720<1428.62 2039.72>
+AnchorPoint: "ogonek" 1480 80 basechar 0
+AnchorPoint: "top" 1320 2560 basechar 0
+AnchorPoint: "cedilla" 764 80 basechar 0
+LayerCount: 2
+Fore
+Refer: 48 80 N 1 0 0 1 0 0 2
+EndChar

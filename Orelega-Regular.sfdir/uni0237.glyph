@@ -1,0 +1,30 @@
+StartChar: uni0237
+Encoding: 567 567 77
+Width: 1060
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -800 680<-240 25> 1520 320<80 280>
+VStem: -472 640<-496.715 -219.115> 280 560<-452.949 1520>
+AnchorPoint: "top" 560 1920 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+160 -480 m 4
+ 241 -480 280 -440 280 0 c 6
+ 280 1520 l 5
+ 80 1520 l 5
+ 80 1840 l 5
+ 840 1840 l 5
+ 840 0 l 6
+ 840 -491 640 -800 80 -800 c 4
+ -240 -800 -354 -730 -429 -600 c 5
+ 160 -480 l 4
+168 -440 m 0
+ 168 -617 25 -760 -152 -760 c 0
+ -329 -760 -472 -617 -472 -440 c 0
+ -472 -263 -329 -120 -152 -120 c 0
+ 25 -120 168 -263 168 -440 c 0
+EndSplineSet
+Substitution2: "Duct" dotlessj.calt
+EndChar

@@ -1,0 +1,13 @@
+StartChar: braceright
+Encoding: 125 125 327
+Width: 1480
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -800 320<150.221 640> 760 320<880 1400> 2320 320<150.221 640>
+VStem: 520 560<-417.767 731.017 1108.98 2257.77>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+Refer: 320 123 N -1 0 0 -1 1480 1840 2
+EndChar

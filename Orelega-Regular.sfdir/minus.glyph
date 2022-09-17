@@ -1,0 +1,17 @@
+StartChar: minus
+Encoding: 8722 8722 371
+Width: 1680
+VWidth: 0
+Flags: HW
+HStem: 1080 320<80 1600>
+LayerCount: 2
+Fore
+SplineSet
+1600 1080 m 1
+ 80 1080 l 1
+ 80 1400 l 1
+ 1600 1400 l 1
+ 1600 1080 l 1
+EndSplineSet
+Validated: 1
+EndChar

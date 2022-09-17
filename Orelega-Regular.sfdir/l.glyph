@@ -1,0 +1,26 @@
+StartChar: l
+Encoding: 108 108 90
+Width: 1120
+VWidth: 0
+Flags: W
+HStem: 0 320<80 280 840 1040> 2160 320<80 280>
+VStem: 280 560<320 2160>
+AnchorPoint: "cedilla" 604 80 basechar 0
+AnchorPoint: "top" 560 2560 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+80 2480 m 1
+ 840 2480 l 1
+ 840 320 l 1
+ 1040 320 l 1
+ 1040 0 l 1
+ 80 0 l 1
+ 80 320 l 1
+ 280 320 l 1
+ 280 2160 l 1
+ 80 2160 l 1
+ 80 2480 l 1
+EndSplineSet
+Validated: 1
+EndChar

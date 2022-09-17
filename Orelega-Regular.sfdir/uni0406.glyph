@@ -1,0 +1,13 @@
+StartChar: uni0406
+Encoding: 1030 1030 475
+Width: 1520
+VWidth: 0
+Flags: HW
+AnchorPoint: "top" 760 2560 basechar 0
+AnchorPoint: "cedilla" 764 80 basechar 0
+AnchorPoint: "ogonek" 1060 80 basechar 0
+LayerCount: 2
+Fore
+Refer: 41 73 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
