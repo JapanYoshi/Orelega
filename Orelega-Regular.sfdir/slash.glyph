@@ -1,17 +1,16 @@
 StartChar: slash
 Encoding: 47 47 15
-Width: 1961
+Width: 1900
 VWidth: 0
 Flags: HW
-HStem: 0 21G<80 461.54> 2460 20G<1500.45 1881>
+HStem: 0 21G<85.4238 466.964> 2460 20G<1505.87 1886.42>
 LayerCount: 2
 Fore
 SplineSet
-1512 2480 m 5
- 1881 2480 l 5
- 450 0 l 5
- 80 0 l 5
- 1512 2480 l 5
+1521.1640625 2480 m 1
+ 1810.6640625 2480 l 1
+ 378.8359375 0 l 1
+ 89.3359375 0 l 1
+ 1521.1640625 2480 l 1
 EndSplineSet
-Validated: 1
 EndChar

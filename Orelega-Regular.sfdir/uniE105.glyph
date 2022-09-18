@@ -1,6 +1,6 @@
 StartChar: uniE105
 Encoding: 57605 57605 381
-Width: 2160
+Width: 1770
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,26 +9,26 @@ VStem: 111 897 280 560<320 1520> 328 640<-617 -219.115> 1143 897 1400 560<-332.1
 LayerCount: 2
 Fore
 SplineSet
-1200 1840 m 1xe040
- 1960 1840 l 1
- 1960 0 l 2
- 1960 -491 1600 -800 1040 -800 c 0
- 560 -800 446 -730 371 -600 c 1
- 780 -380 l 1
- 894 -471 962 -480 1060 -480 c 0
- 1241 -480 1400 -320 1400 0 c 2
- 1400 1520 l 1
- 1200 1520 l 1
- 1200 1840 l 1xe040
-968 -440 m 0xe1
+1138 1840 m 1
+ 1658 1840 l 1
+ 1658 0 l 2
+ 1658 -491.106445312 1368 -800 888 -800 c 0
+ 567.592773438 -800 445.844726562 -729.857421875 370.872070312 -600 c 1
+ 799 -477 l 1
+ 858 -525 921 -560 968 -560 c 0
+ 1108.96875 -560 1338 -440 1338 0 c 2
+ 1338 1600 l 1
+ 1138 1600 l 1
+ 1138 1840 l 1
+968 -440 m 0xf2
  968 -617 825 -760 648 -760 c 0
  471 -760 328 -617 328 -440 c 0
  328 -263 471 -120 648 -120 c 0
- 825 -120 968 -263 968 -440 c 0xe1
+ 825 -120 968 -263 968 -440 c 0xf2
 EndSplineSet
-Refer: 83 180 N 1 0 0 1 1060 0 2
+Refer: 83 180 N 1 0 0 1 960 0 2
 Refer: 136 237 N 1 0 0 1 0 0 2
-LCarets2: 1 0
+LCarets2: 1 894
 Ligature2: "Dutch IJ/ij ligatures-1" iacute j
 Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" ij acutecomb
 Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" ij acute

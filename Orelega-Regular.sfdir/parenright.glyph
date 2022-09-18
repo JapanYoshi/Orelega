@@ -1,12 +1,11 @@
 StartChar: parenright
 Encoding: 41 41 9
-Width: 1320
+Width: 1080
 VWidth: 0
 Flags: HW
-HStem: -800 320<80 218.271> 2320 320<80 218.271>
-VStem: 560 680<279.798 1560.2>
+HStem: -800 320<-160 -21.729> 2320 320<-160 -21.729>
+VStem: 320 680<279.798 1560.2>
 LayerCount: 2
 Fore
-Refer: 8 40 S -1 0 0 -1 1320 1840 2
-Validated: 1
+Refer: 8 40 S -1 0 0 -1 1080 1840 2
 EndChar

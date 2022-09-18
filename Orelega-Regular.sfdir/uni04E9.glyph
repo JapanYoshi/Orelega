@@ -11,11 +11,11 @@ AnchorPoint: "cedilla" 1064 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-570 720 m 1
- 570 1040 l 1
- 1533 1040 l 1
- 1533 720 l 1
- 570 720 l 1
+370 760 m 1
+ 370 1000 l 1
+ 1593 1000 l 5
+ 1593 760 l 5
+ 370 760 l 1
 EndSplineSet
 Refer: 82 111 N 1 0 0 1 0 0 2
 EndChar

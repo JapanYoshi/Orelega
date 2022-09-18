@@ -7,11 +7,10 @@ HStem: 1080 320<160 2080>
 LayerCount: 2
 Fore
 SplineSet
-160 1080 m 5
- 160 1400 l 5
- 2080 1400 l 5
- 2080 1080 l 5
- 160 1080 l 5
+160 1120 m 5
+ 160 1360 l 1
+ 2080 1360 l 1
+ 2080 1120 l 5
+ 160 1120 l 5
 EndSplineSet
-Validated: 1
 EndChar

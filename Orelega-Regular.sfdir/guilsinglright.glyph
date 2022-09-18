@@ -7,14 +7,5 @@ HStem: 240 1360
 VStem: 80 880<680 800 1040 1160>
 LayerCount: 2
 Fore
-SplineSet
-960 680 m 1
- 80 240 l 1
- 80 800 l 1
- 640 920 l 1
- 80 1040 l 1
- 80 1600 l 1
- 960 1160 l 1
- 960 680 l 1
-EndSplineSet
+Refer: 366 8249 N -1 0 0 -1 1040 1840 2
 EndChar

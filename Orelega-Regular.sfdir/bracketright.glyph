@@ -1,12 +1,11 @@
 StartChar: bracketright
 Encoding: 93 93 61
-Width: 1320
+Width: 1080
 VWidth: 0
 Flags: HW
-HStem: -800 320<80 640> 2320 320<80 640>
-VStem: 640 560<-480 2320>
+HStem: -800 320<-160 400> 2320 320<-160 400>
+VStem: 400 560<-480 2320>
 LayerCount: 2
 Fore
-Refer: 59 91 N -1 0 0 -1 1320 1840 2
-Validated: 1
+Refer: 59 91 N -1 0 0 -1 1080 1840 2
 EndChar
