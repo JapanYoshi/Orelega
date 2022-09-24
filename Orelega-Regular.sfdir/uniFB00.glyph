@@ -1,6 +1,6 @@
 StartChar: uniFB00
 Encoding: 64256 64256 332
-Width: 2960
+Width: 2680
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,5 +9,5 @@ VStem: 360 373<2002.44 2339.78> 360 560<320 1992.57> 840 640<2059.12 2457> 1720 
 LayerCount: 2
 Fore
 Refer: 390 57614 N 1 0 0 1 0 0 2
-Refer: 72 102 N 1 0 0 1 1360 0 2
+Refer: 72 102 N 1 0 0 1 1200 0 2
 EndChar

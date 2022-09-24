@@ -1,14 +1,14 @@
 StartChar: uniE10D
 Encoding: 57613 57613 389
-Width: 2480
+Width: 2080
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -760 232<2057 2360> 0 320<160 360 920 1200 1440 1640 2200 2400> 1520 320<80 1640> 2320 320<1140.05 1546.16>
 VStem: 360 560<320 2113.28> 1520 640<2059.12 2457> 1640 560<320 1520> 1720 280<-572.151 -49.8567> 2040 640<-542.737 -219.115>
 LayerCount: 2
 Fore
-Refer: 64 731 N 1 0 0 1 1640 0 2
-Refer: 333 64257 S 1 0 0 1 0 0 2
+Refer: 64 731 S 1 0 0 1 1300 0 2
+Refer: 333 64257 N 1 0 0 1 0 0 3
 Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" f iogonek
 EndChar

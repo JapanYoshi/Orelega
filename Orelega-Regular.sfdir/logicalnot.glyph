@@ -8,13 +8,12 @@ VStem: 1280 320<880 1280>
 LayerCount: 2
 Fore
 SplineSet
-80 1600 m 5
- 1600 1600 l 5
- 1600 880 l 5
- 1280 880 l 5
- 1280 1280 l 5
- 80 1280 l 5
- 80 1600 l 5
+80 1600 m 1
+ 1600 1600 l 1
+ 1600 880 l 1
+ 1280 880 l 1
+ 1280 1280 l 1
+ 80 1280 l 1
+ 80 1600 l 1
 EndSplineSet
-Validated: 1
 EndChar

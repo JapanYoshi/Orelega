@@ -1,6 +1,6 @@
 StartChar: threequarters
 Encoding: 190 190 317
-Width: 3813
+Width: 3093
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,8 +8,8 @@ HStem: -800 320<2693 3053 3533 3733> -400 320<2573 3053 3533 3733> 0 21G<880 135
 VStem: 80 560<1512.76 1722.81> 1160 560<2015.07 2333.03> 1200 560<1365.52 1663.05> 3053 480<-480 -400 -80 270.717>
 LayerCount: 2
 Fore
-Refer: 314 8308 S 1 0 0 1 2053 -1840 2
-Refer: 309 8260 N 1 0 0 1 1520 0 2
+Refer: 314 8308 S 1 0 0 1 1653 -1840 2
+Refer: 309 8260 N 1 0 0 1 1220 0 2
 Refer: 313 179 N 1 0 0 1 0 0 2
 Decomposition: "+ALMgRCB0"
 EndChar

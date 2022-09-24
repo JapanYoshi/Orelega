@@ -7,10 +7,10 @@ HStem: 0 21G<-640 -167> 1820 20G<1180 1653>
 LayerCount: 2
 Fore
 SplineSet
-1230 1840 m 5
+1230 1840 m 1
  1623 1840 l 1
  -217 0 l 1
- -610 0 l 5
- 1230 1840 l 5
+ -610 0 l 1
+ 1230 1840 l 1
 EndSplineSet
 EndChar

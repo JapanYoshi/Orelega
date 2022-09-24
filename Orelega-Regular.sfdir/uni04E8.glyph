@@ -6,16 +6,16 @@ UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -40 320<918.91 1461.09> 960 320<564 1820> 2200 320<916.12 1463.88>
 VStem: -130 720<766.786 1713.21> 1790 720<766.786 1713.21>
-AnchorPoint: "top" 1360 2560 basechar 0
-AnchorPoint: "cedilla" 1364 80 basechar 0
+AnchorPoint: "top" 1200 2560 basechar 0
+AnchorPoint: "cedilla" 1200 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-2120 1000 m 5
+2120 1000 m 1
  264 1000 l 1
  264 1240 l 1
- 2120 1240 l 5
- 2120 1000 l 5
+ 2120 1240 l 1
+ 2120 1000 l 1
 EndSplineSet
 Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
