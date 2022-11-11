@@ -1,40 +1,9 @@
 StartChar: uni0415
 Encoding: 1045 1045 411
-Width: 2480
+Width: 2200
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1240 2560 basechar 0
-AnchorPoint: "cedilla" 1244 80 basechar 0
-AnchorPoint: "ogonek" 2100 80 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-120 2480 m 1xfa
- 2280 2480 l 1
- 2280 1680 l 1
- 1920 1680 l 1
- 1920 1840 l 2xfc
- 1920 1959 1880 2160 1760 2160 c 2
- 1080 2160 l 1
- 1080 1280 l 1
- 1440 1280 l 1
- 1440 1640 l 1
- 1760 1640 l 1
- 1760 600 l 1
- 1440 600 l 1
- 1440 960 l 1
- 1080 960 l 1
- 1080 320 l 1
- 1800 320 l 2
- 1920 320 1960 521 1960 640 c 2
- 1960 800 l 1
- 2320 800 l 1
- 2320 0 l 1
- 120 0 l 1
- 120 320 l 1
- 440 320 l 1
- 440 2160 l 1
- 120 2160 l 1
- 120 2480 l 1xfa
-EndSplineSet
+Refer: 37 69 N 1 0 0 1 0 0 2
 EndChar

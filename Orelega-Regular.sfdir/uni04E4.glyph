@@ -1,10 +1,9 @@
 StartChar: uni04E4
 Encoding: 1252 1252 564
-Width: 3040
-Flags: H
+Width: 2870
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 93 168 N 1 0 0 1 656 640 2
 Refer: 414 1048 S 1 0 0 1 0 0 3
-Validated: 1
 EndChar

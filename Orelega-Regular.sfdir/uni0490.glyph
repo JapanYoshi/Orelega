@@ -1,28 +1,35 @@
 StartChar: uni0490
 Encoding: 1168 1168 501
-Width: 2400
-Flags: HW
-AnchorPoint: "top" 1240 2560 basechar 0
-AnchorPoint: "cedilla" 764 80 basechar 0
+Width: 2120
+Flags: HWO
+HStem: 0 320<120 440 1080 1640> 2160 320<120 440 1080 1872.16>
+VStem: 440 640<320 2160> 1920 360<1680 2130.52>
+AnchorPoint: "ogonek" 1320 80 basechar 0
+AnchorPoint: "top" 1090 2560 basechar 0
+AnchorPoint: "cedilla" 614 80 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1760 2480 m 2
- 1880 2480 1920 2681 1920 2800 c 2
- 1920 2960 l 1
- 2280 2960 l 1
- 2280 2160 l 1
- 1080 2160 l 1
- 1080 320 l 1
- 1640 320 l 1
- 1640 0 l 1
- 120 0 l 1
- 120 320 l 1
- 440 320 l 1
- 440 2160 l 1
- 120 2160 l 1
+1600 2480 m 1
+ 1720 2480 1760 2680.74316406 1760 2800 c 1
+ 1760 2480 l 1
+ 1600 2480 l 1
+120 2240 m 1
  120 2480 l 1
- 1760 2480 l 2
+ 1760 2480 l 1
+ 1760 3040 l 1
+ 2000 3040 l 1
+ 2000 2240 l 1
+ 120 2240 l 1
+440 200.31640625 m 1
+ 440 2280 l 1
+ 760 2280 l 1
+ 760 200.31640625 l 1
+ 440 200.31640625 l 1
+120 240 m 1
+ 1320 240 l 1
+ 1320 0 l 1
+ 120 0 l 1
+ 120 240 l 1
 EndSplineSet
-Validated: 1
 EndChar

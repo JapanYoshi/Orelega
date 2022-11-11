@@ -6,9 +6,8 @@ UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: 0 320<-40 280 920 1320> 960 320<920 1411.08> 2160 320<-40 280 920 1427.05>
 VStem: 280 640<320 960 1280 2160> 1560 720<1428.62 2039.72>
-AnchorPoint: "ogonek" 1480 80 basechar 0
-AnchorPoint: "top" 1320 2560 basechar 0
-AnchorPoint: "cedilla" 764 80 basechar 0
+AnchorPoint: "top" 1160 2560 basechar 0
+AnchorPoint: "cedilla" 604 80 basechar 0
 LayerCount: 2
 Fore
 Refer: 48 80 N 1 0 0 1 0 0 2
